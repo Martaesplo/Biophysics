@@ -1,0 +1,29 @@
+Residue 1 is GLY
+Residue 2 is SER
+
+Atom1 Atom2 dist1 dist2
+-------------------------
+<Atom N> <Atom N> 26.841194 26.841194
+<Atom N> <Atom CA> 27.705826 27.705826
+<Atom N> <Atom C> 27.011518 27.011518
+<Atom N> <Atom O> 27.704405 27.704405
+<Atom N> <Atom CB> 28.923365 28.923365
+<Atom N> <Atom OG> 28.661741 28.661741
+<Atom CA> <Atom N> 26.76021 26.76021
+<Atom CA> <Atom CA> 27.68607 27.68607
+<Atom CA> <Atom C> 27.0538 27.0538
+<Atom CA> <Atom O> 27.799332 27.799332
+<Atom CA> <Atom CB> 28.883638 28.883638
+<Atom CA> <Atom OG> 28.57509 28.57509
+<Atom C> <Atom N> 26.097872 26.097872
+<Atom C> <Atom CA> 27.042479 27.042479
+<Atom C> <Atom C> 26.412207 26.412207
+<Atom C> <Atom O> 27.175257 27.175257
+<Atom C> <Atom CB> 28.19385 28.19385
+<Atom C> <Atom OG> 27.822264 27.822264
+<Atom O> <Atom N> 26.35525 26.35525
+<Atom O> <Atom CA> 27.34624 27.34624
+<Atom O> <Atom C> 26.76351 26.76351
+<Atom O> <Atom O> 27.56535 27.56535
+<Atom O> <Atom CB> 28.469149 28.469149
+<Atom O> <Atom OG> 28.049194 28.049194

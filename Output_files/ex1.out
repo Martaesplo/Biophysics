@@ -1,0 +1,9237 @@
+ATOM: MET 1 CA
+ATOM: GLN 2 CA
+ATOM: ILE 3 CA
+ATOM: PHE 4 CA
+ATOM: VAL 5 CA
+ATOM: LYS 6 CA
+ATOM: THR 7 CA
+ATOM: LEU 8 CA
+ATOM: THR 9 CA
+ATOM: GLY 10 CA
+ATOM: LYS 11 CA
+ATOM: THR 12 CA
+ATOM: ILE 13 CA
+ATOM: THR 14 CA
+ATOM: LEU 15 CA
+ATOM: GLU 16 CA
+ATOM: VAL 17 CA
+ATOM: GLU 18 CA
+ATOM: PRO 19 CA
+ATOM: SER 20 CA
+ATOM: ASP 21 CA
+ATOM: THR 22 CA
+ATOM: ILE 23 CA
+ATOM: GLU 24 CA
+ATOM: ASN 25 CA
+ATOM: VAL 26 CA
+ATOM: LYS 27 CA
+ATOM: ALA 28 CA
+ATOM: LYS 29 CA
+ATOM: ILE 30 CA
+ATOM: GLN 31 CA
+ATOM: ASP 32 CA
+ATOM: LYS 33 CA
+ATOM: GLU 34 CA
+ATOM: GLY 35 CA
+ATOM: ILE 36 CA
+ATOM: PRO 37 CA
+ATOM: PRO 38 CA
+ATOM: ASP 39 CA
+ATOM: GLN 40 CA
+ATOM: GLN 41 CA
+ATOM: ARG 42 CA
+ATOM: LEU 43 CA
+ATOM: ILE 44 CA
+ATOM: PHE 45 CA
+ATOM: ALA 46 CA
+ATOM: GLY 47 CA
+ATOM: LYS 48 CA
+ATOM: GLN 49 CA
+ATOM: LEU 50 CA
+ATOM: GLU 51 CA
+ATOM: ASP 52 CA
+ATOM: GLY 53 CA
+ATOM: ARG 54 CA
+ATOM: THR 55 CA
+ATOM: LEU 56 CA
+ATOM: SER 57 CA
+ATOM: ASP 58 CA
+ATOM: TYR 59 CA
+ATOM: ASN 60 CA
+ATOM: ILE 61 CA
+ATOM: GLN 62 CA
+ATOM: LYS 63 CA
+ATOM: GLU 64 CA
+ATOM: SER 65 CA
+ATOM: THR 66 CA
+ATOM: LEU 67 CA
+ATOM: HIS 68 CA
+ATOM: LEU 69 CA
+ATOM: VAL 70 CA
+ATOM: LEU 71 CA
+ATOM: ARG 72 CA
+ATOM: LEU 73 CA
+ATOM: ARG 74 CA
+ATOM: GLY 75 CA
+ATOM: GLY 76 CA
+NBSEARCH:
+Contact:  1
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 10 GLN
+
+Contact:  2
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 493 LYS
+
+Contact:  3
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 135 GLU
+
+Contact:  4
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 484 GLN
+
+Contact:  5
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 144 PRO
+
+Contact:  6
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 151 SER
+
+Contact:  7
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 476 ILE
+
+Contact:  8
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 442 SER
+
+Contact:  9
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 468 ASN
+
+Contact:  10
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 493 LYS
+
+Contact:  11
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 135 GLU
+
+Contact:  12
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 484 GLN
+
+Contact:  13
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 144 PRO
+
+Contact:  14
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 151 SER
+
+Contact:  15
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 476 ILE
+
+Contact:  16
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 442 SER
+
+Contact:  17
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 468 ASN
+
+Contact:  18
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 493 LYS
+
+Contact:  19
+at1 <Atom CA> 484 GLN
+at2 <Atom CA> 493 LYS
+
+Contact:  20
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 493 LYS
+
+Contact:  21
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 493 LYS
+
+Contact:  22
+at1 <Atom CA> 476 ILE
+at2 <Atom CA> 493 LYS
+
+Contact:  23
+at1 <Atom CA> 442 SER
+at2 <Atom CA> 493 LYS
+
+Contact:  24
+at1 <Atom CA> 468 ASN
+at2 <Atom CA> 493 LYS
+
+Contact:  25
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 484 GLN
+
+Contact:  26
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 144 PRO
+
+Contact:  27
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 151 SER
+
+Contact:  28
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 476 ILE
+
+Contact:  29
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 442 SER
+
+Contact:  30
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 468 ASN
+
+Contact:  31
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 484 GLN
+
+Contact:  32
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 484 GLN
+
+Contact:  33
+at1 <Atom CA> 476 ILE
+at2 <Atom CA> 484 GLN
+
+Contact:  34
+at1 <Atom CA> 442 SER
+at2 <Atom CA> 484 GLN
+
+Contact:  35
+at1 <Atom CA> 468 ASN
+at2 <Atom CA> 484 GLN
+
+Contact:  36
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 151 SER
+
+Contact:  37
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 476 ILE
+
+Contact:  38
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 442 SER
+
+Contact:  39
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 468 ASN
+
+Contact:  40
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 476 ILE
+
+Contact:  41
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 442 SER
+
+Contact:  42
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 468 ASN
+
+Contact:  43
+at1 <Atom CA> 442 SER
+at2 <Atom CA> 476 ILE
+
+Contact:  44
+at1 <Atom CA> 468 ASN
+at2 <Atom CA> 476 ILE
+
+Contact:  45
+at1 <Atom CA> 442 SER
+at2 <Atom CA> 468 ASN
+
+Contact:  46
+at1 <Atom CA> 427 THR
+at2 <Atom CA> 434 LEU
+
+Contact:  47
+at1 <Atom CA> 434 LEU
+at2 <Atom CA> 448 ASP
+
+Contact:  48
+at1 <Atom CA> 434 LEU
+at2 <Atom CA> 456 TYR
+
+Contact:  49
+at1 <Atom CA> 416 ARG
+at2 <Atom CA> 434 LEU
+
+Contact:  50
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 434 LEU
+
+Contact:  51
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 434 LEU
+
+Contact:  52
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 434 LEU
+
+Contact:  53
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 434 LEU
+
+Contact:  54
+at1 <Atom CA> 427 THR
+at2 <Atom CA> 448 ASP
+
+Contact:  55
+at1 <Atom CA> 427 THR
+at2 <Atom CA> 456 TYR
+
+Contact:  56
+at1 <Atom CA> 416 ARG
+at2 <Atom CA> 427 THR
+
+Contact:  57
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 427 THR
+
+Contact:  58
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 427 THR
+
+Contact:  59
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 427 THR
+
+Contact:  60
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 427 THR
+
+Contact:  61
+at1 <Atom CA> 448 ASP
+at2 <Atom CA> 456 TYR
+
+Contact:  62
+at1 <Atom CA> 416 ARG
+at2 <Atom CA> 448 ASP
+
+Contact:  63
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 448 ASP
+
+Contact:  64
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 448 ASP
+
+Contact:  65
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 448 ASP
+
+Contact:  66
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 448 ASP
+
+Contact:  67
+at1 <Atom CA> 416 ARG
+at2 <Atom CA> 456 TYR
+
+Contact:  68
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 456 TYR
+
+Contact:  69
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 456 TYR
+
+Contact:  70
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 456 TYR
+
+Contact:  71
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 456 TYR
+
+Contact:  72
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 416 ARG
+
+Contact:  73
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 416 ARG
+
+Contact:  74
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 416 ARG
+
+Contact:  75
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 416 ARG
+
+Contact:  76
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 395 GLU
+
+Contact:  77
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 387 LEU
+
+Contact:  78
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 387 LEU
+
+Contact:  79
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 395 GLU
+
+Contact:  80
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 395 GLU
+
+Contact:  81
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 378 GLN
+
+Contact:  82
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 434 LEU
+
+Contact:  83
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 427 THR
+
+Contact:  84
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 448 ASP
+
+Contact:  85
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 456 TYR
+
+Contact:  86
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 416 ARG
+
+Contact:  87
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 387 LEU
+
+Contact:  88
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 395 GLU
+
+Contact:  89
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 434 LEU
+
+Contact:  90
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 427 THR
+
+Contact:  91
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 448 ASP
+
+Contact:  92
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 456 TYR
+
+Contact:  93
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 416 ARG
+
+Contact:  94
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 387 LEU
+
+Contact:  95
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 395 GLU
+
+Contact:  96
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 378 GLN
+
+Contact:  97
+at1 <Atom CA> 434 LEU
+at2 <Atom CA> 493 LYS
+
+Contact:  98
+at1 <Atom CA> 427 THR
+at2 <Atom CA> 493 LYS
+
+Contact:  99
+at1 <Atom CA> 448 ASP
+at2 <Atom CA> 493 LYS
+
+Contact:  100
+at1 <Atom CA> 456 TYR
+at2 <Atom CA> 493 LYS
+
+Contact:  101
+at1 <Atom CA> 416 ARG
+at2 <Atom CA> 493 LYS
+
+Contact:  102
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 493 LYS
+
+Contact:  103
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 493 LYS
+
+Contact:  104
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 493 LYS
+
+Contact:  105
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 493 LYS
+
+Contact:  106
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 434 LEU
+
+Contact:  107
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 427 THR
+
+Contact:  108
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 448 ASP
+
+Contact:  109
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 456 TYR
+
+Contact:  110
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 416 ARG
+
+Contact:  111
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 387 LEU
+
+Contact:  112
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 395 GLU
+
+Contact:  113
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 369 LYS
+
+Contact:  114
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 378 GLN
+
+Contact:  115
+at1 <Atom CA> 434 LEU
+at2 <Atom CA> 484 GLN
+
+Contact:  116
+at1 <Atom CA> 427 THR
+at2 <Atom CA> 484 GLN
+
+Contact:  117
+at1 <Atom CA> 448 ASP
+at2 <Atom CA> 484 GLN
+
+Contact:  118
+at1 <Atom CA> 456 TYR
+at2 <Atom CA> 484 GLN
+
+Contact:  119
+at1 <Atom CA> 416 ARG
+at2 <Atom CA> 484 GLN
+
+Contact:  120
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 484 GLN
+
+Contact:  121
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 484 GLN
+
+Contact:  122
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 484 GLN
+
+Contact:  123
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 484 GLN
+
+Contact:  124
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 434 LEU
+
+Contact:  125
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 427 THR
+
+Contact:  126
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 448 ASP
+
+Contact:  127
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 456 TYR
+
+Contact:  128
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 416 ARG
+
+Contact:  129
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 387 LEU
+
+Contact:  130
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 395 GLU
+
+Contact:  131
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 369 LYS
+
+Contact:  132
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 378 GLN
+
+Contact:  133
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 434 LEU
+
+Contact:  134
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 427 THR
+
+Contact:  135
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 448 ASP
+
+Contact:  136
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 456 TYR
+
+Contact:  137
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 416 ARG
+
+Contact:  138
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 387 LEU
+
+Contact:  139
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 395 GLU
+
+Contact:  140
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 369 LYS
+
+Contact:  141
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 378 GLN
+
+Contact:  142
+at1 <Atom CA> 434 LEU
+at2 <Atom CA> 476 ILE
+
+Contact:  143
+at1 <Atom CA> 427 THR
+at2 <Atom CA> 476 ILE
+
+Contact:  144
+at1 <Atom CA> 448 ASP
+at2 <Atom CA> 476 ILE
+
+Contact:  145
+at1 <Atom CA> 456 TYR
+at2 <Atom CA> 476 ILE
+
+Contact:  146
+at1 <Atom CA> 416 ARG
+at2 <Atom CA> 476 ILE
+
+Contact:  147
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 476 ILE
+
+Contact:  148
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 476 ILE
+
+Contact:  149
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 476 ILE
+
+Contact:  150
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 476 ILE
+
+Contact:  151
+at1 <Atom CA> 434 LEU
+at2 <Atom CA> 442 SER
+
+Contact:  152
+at1 <Atom CA> 427 THR
+at2 <Atom CA> 442 SER
+
+Contact:  153
+at1 <Atom CA> 442 SER
+at2 <Atom CA> 448 ASP
+
+Contact:  154
+at1 <Atom CA> 442 SER
+at2 <Atom CA> 456 TYR
+
+Contact:  155
+at1 <Atom CA> 416 ARG
+at2 <Atom CA> 442 SER
+
+Contact:  156
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 442 SER
+
+Contact:  157
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 442 SER
+
+Contact:  158
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 442 SER
+
+Contact:  159
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 442 SER
+
+Contact:  160
+at1 <Atom CA> 434 LEU
+at2 <Atom CA> 468 ASN
+
+Contact:  161
+at1 <Atom CA> 427 THR
+at2 <Atom CA> 468 ASN
+
+Contact:  162
+at1 <Atom CA> 448 ASP
+at2 <Atom CA> 468 ASN
+
+Contact:  163
+at1 <Atom CA> 456 TYR
+at2 <Atom CA> 468 ASN
+
+Contact:  164
+at1 <Atom CA> 416 ARG
+at2 <Atom CA> 468 ASN
+
+Contact:  165
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 468 ASN
+
+Contact:  166
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 468 ASN
+
+Contact:  167
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 468 ASN
+
+Contact:  168
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 468 ASN
+
+Contact:  169
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 502 GLU
+
+Contact:  170
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 502 GLU
+
+Contact:  171
+at1 <Atom CA> 502 GLU
+at2 <Atom CA> 511 SER
+
+Contact:  172
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 502 GLU
+
+Contact:  173
+at1 <Atom CA> 502 GLU
+at2 <Atom CA> 517 THR
+
+Contact:  174
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 502 GLU
+
+Contact:  175
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 502 GLU
+
+Contact:  176
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 502 GLU
+
+Contact:  177
+at1 <Atom CA> 502 GLU
+at2 <Atom CA> 524 LEU
+
+Contact:  178
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 27 PHE
+
+Contact:  179
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 511 SER
+
+Contact:  180
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 89 THR
+
+Contact:  181
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 517 THR
+
+Contact:  182
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 38 VAL
+
+Contact:  183
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 45 LYS
+
+Contact:  184
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 76 GLY
+
+Contact:  185
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 524 LEU
+
+Contact:  186
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 511 SER
+
+Contact:  187
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 89 THR
+
+Contact:  188
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 517 THR
+
+Contact:  189
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 38 VAL
+
+Contact:  190
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 45 LYS
+
+Contact:  191
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 76 GLY
+
+Contact:  192
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 524 LEU
+
+Contact:  193
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 511 SER
+
+Contact:  194
+at1 <Atom CA> 511 SER
+at2 <Atom CA> 517 THR
+
+Contact:  195
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 511 SER
+
+Contact:  196
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 511 SER
+
+Contact:  197
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 511 SER
+
+Contact:  198
+at1 <Atom CA> 511 SER
+at2 <Atom CA> 524 LEU
+
+Contact:  199
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 517 THR
+
+Contact:  200
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 89 THR
+
+Contact:  201
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 89 THR
+
+Contact:  202
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 89 THR
+
+Contact:  203
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 524 LEU
+
+Contact:  204
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 517 THR
+
+Contact:  205
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 517 THR
+
+Contact:  206
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 517 THR
+
+Contact:  207
+at1 <Atom CA> 517 THR
+at2 <Atom CA> 524 LEU
+
+Contact:  208
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 45 LYS
+
+Contact:  209
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 76 GLY
+
+Contact:  210
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 524 LEU
+
+Contact:  211
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 76 GLY
+
+Contact:  212
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 524 LEU
+
+Contact:  213
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 524 LEU
+
+Contact:  214
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 532 HIS
+
+Contact:  215
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 349 PHE
+
+Contact:  216
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 542 LEU
+
+Contact:  217
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 360 ALA
+
+Contact:  218
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 61 LEU
+
+Contact:  219
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 333 LEU
+
+Contact:  220
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 341 ILE
+
+Contact:  221
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 365 GLY
+
+Contact:  222
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 532 HIS
+
+Contact:  223
+at1 <Atom CA> 532 HIS
+at2 <Atom CA> 542 LEU
+
+Contact:  224
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 532 HIS
+
+Contact:  225
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 532 HIS
+
+Contact:  226
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 532 HIS
+
+Contact:  227
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 532 HIS
+
+Contact:  228
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 532 HIS
+
+Contact:  229
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 542 LEU
+
+Contact:  230
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 360 ALA
+
+Contact:  231
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 349 PHE
+
+Contact:  232
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 349 PHE
+
+Contact:  233
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 349 PHE
+
+Contact:  234
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 365 GLY
+
+Contact:  235
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 542 LEU
+
+Contact:  236
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 542 LEU
+
+Contact:  237
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 542 LEU
+
+Contact:  238
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 542 LEU
+
+Contact:  239
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 542 LEU
+
+Contact:  240
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 360 ALA
+
+Contact:  241
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 360 ALA
+
+Contact:  242
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 360 ALA
+
+Contact:  243
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 365 GLY
+
+Contact:  244
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 333 LEU
+
+Contact:  245
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 341 ILE
+
+Contact:  246
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 365 GLY
+
+Contact:  247
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 341 ILE
+
+Contact:  248
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 365 GLY
+
+Contact:  249
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 365 GLY
+
+Contact:  250
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 502 GLU
+
+Contact:  251
+at1 <Atom CA> 502 GLU
+at2 <Atom CA> 532 HIS
+
+Contact:  252
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 502 GLU
+
+Contact:  253
+at1 <Atom CA> 502 GLU
+at2 <Atom CA> 542 LEU
+
+Contact:  254
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 502 GLU
+
+Contact:  255
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 502 GLU
+
+Contact:  256
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 502 GLU
+
+Contact:  257
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 502 GLU
+
+Contact:  258
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 502 GLU
+
+Contact:  259
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 54 THR
+
+Contact:  260
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 532 HIS
+
+Contact:  261
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 349 PHE
+
+Contact:  262
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 542 LEU
+
+Contact:  263
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 360 ALA
+
+Contact:  264
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 61 LEU
+
+Contact:  265
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 333 LEU
+
+Contact:  266
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 341 ILE
+
+Contact:  267
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 365 GLY
+
+Contact:  268
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 54 THR
+
+Contact:  269
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 532 HIS
+
+Contact:  270
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 349 PHE
+
+Contact:  271
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 542 LEU
+
+Contact:  272
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 360 ALA
+
+Contact:  273
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 61 LEU
+
+Contact:  274
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 333 LEU
+
+Contact:  275
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 341 ILE
+
+Contact:  276
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 365 GLY
+
+Contact:  277
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 511 SER
+
+Contact:  278
+at1 <Atom CA> 511 SER
+at2 <Atom CA> 532 HIS
+
+Contact:  279
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 511 SER
+
+Contact:  280
+at1 <Atom CA> 511 SER
+at2 <Atom CA> 542 LEU
+
+Contact:  281
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 511 SER
+
+Contact:  282
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 511 SER
+
+Contact:  283
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 511 SER
+
+Contact:  284
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 511 SER
+
+Contact:  285
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 511 SER
+
+Contact:  286
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 89 THR
+
+Contact:  287
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 532 HIS
+
+Contact:  288
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 349 PHE
+
+Contact:  289
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 542 LEU
+
+Contact:  290
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 360 ALA
+
+Contact:  291
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 89 THR
+
+Contact:  292
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 333 LEU
+
+Contact:  293
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 341 ILE
+
+Contact:  294
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 365 GLY
+
+Contact:  295
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 517 THR
+
+Contact:  296
+at1 <Atom CA> 517 THR
+at2 <Atom CA> 532 HIS
+
+Contact:  297
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 517 THR
+
+Contact:  298
+at1 <Atom CA> 517 THR
+at2 <Atom CA> 542 LEU
+
+Contact:  299
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 517 THR
+
+Contact:  300
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 517 THR
+
+Contact:  301
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 517 THR
+
+Contact:  302
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 517 THR
+
+Contact:  303
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 517 THR
+
+Contact:  304
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 54 THR
+
+Contact:  305
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 532 HIS
+
+Contact:  306
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 349 PHE
+
+Contact:  307
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 542 LEU
+
+Contact:  308
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 360 ALA
+
+Contact:  309
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 61 LEU
+
+Contact:  310
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 333 LEU
+
+Contact:  311
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 341 ILE
+
+Contact:  312
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 365 GLY
+
+Contact:  313
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 54 THR
+
+Contact:  314
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 532 HIS
+
+Contact:  315
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 349 PHE
+
+Contact:  316
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 542 LEU
+
+Contact:  317
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 360 ALA
+
+Contact:  318
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 61 LEU
+
+Contact:  319
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 333 LEU
+
+Contact:  320
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 341 ILE
+
+Contact:  321
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 365 GLY
+
+Contact:  322
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 76 GLY
+
+Contact:  323
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 532 HIS
+
+Contact:  324
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 349 PHE
+
+Contact:  325
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 542 LEU
+
+Contact:  326
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 360 ALA
+
+Contact:  327
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 76 GLY
+
+Contact:  328
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 333 LEU
+
+Contact:  329
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 341 ILE
+
+Contact:  330
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 365 GLY
+
+Contact:  331
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 524 LEU
+
+Contact:  332
+at1 <Atom CA> 524 LEU
+at2 <Atom CA> 532 HIS
+
+Contact:  333
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 524 LEU
+
+Contact:  334
+at1 <Atom CA> 524 LEU
+at2 <Atom CA> 542 LEU
+
+Contact:  335
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 524 LEU
+
+Contact:  336
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 524 LEU
+
+Contact:  337
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 524 LEU
+
+Contact:  338
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 524 LEU
+
+Contact:  339
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 524 LEU
+
+Contact:  340
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 502 GLU
+
+Contact:  341
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 502 GLU
+
+Contact:  342
+at1 <Atom CA> 493 LYS
+at2 <Atom CA> 502 GLU
+
+Contact:  343
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 502 GLU
+
+Contact:  344
+at1 <Atom CA> 484 GLN
+at2 <Atom CA> 502 GLU
+
+Contact:  345
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 502 GLU
+
+Contact:  346
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 502 GLU
+
+Contact:  347
+at1 <Atom CA> 476 ILE
+at2 <Atom CA> 502 GLU
+
+Contact:  348
+at1 <Atom CA> 442 SER
+at2 <Atom CA> 502 GLU
+
+Contact:  349
+at1 <Atom CA> 468 ASN
+at2 <Atom CA> 502 GLU
+
+Contact:  350
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 19 ILE
+
+Contact:  351
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 19 ILE
+
+Contact:  352
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 493 LYS
+
+Contact:  353
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 135 GLU
+
+Contact:  354
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 484 GLN
+
+Contact:  355
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 144 PRO
+
+Contact:  356
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 151 SER
+
+Contact:  357
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 476 ILE
+
+Contact:  358
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 442 SER
+
+Contact:  359
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 468 ASN
+
+Contact:  360
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 27 PHE
+
+Contact:  361
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 27 PHE
+
+Contact:  362
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 493 LYS
+
+Contact:  363
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 135 GLU
+
+Contact:  364
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 484 GLN
+
+Contact:  365
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 144 PRO
+
+Contact:  366
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 151 SER
+
+Contact:  367
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 476 ILE
+
+Contact:  368
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 442 SER
+
+Contact:  369
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 468 ASN
+
+Contact:  370
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 511 SER
+
+Contact:  371
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 511 SER
+
+Contact:  372
+at1 <Atom CA> 493 LYS
+at2 <Atom CA> 511 SER
+
+Contact:  373
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 511 SER
+
+Contact:  374
+at1 <Atom CA> 484 GLN
+at2 <Atom CA> 511 SER
+
+Contact:  375
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 511 SER
+
+Contact:  376
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 511 SER
+
+Contact:  377
+at1 <Atom CA> 476 ILE
+at2 <Atom CA> 511 SER
+
+Contact:  378
+at1 <Atom CA> 442 SER
+at2 <Atom CA> 511 SER
+
+Contact:  379
+at1 <Atom CA> 468 ASN
+at2 <Atom CA> 511 SER
+
+Contact:  380
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 89 THR
+
+Contact:  381
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 89 THR
+
+Contact:  382
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 493 LYS
+
+Contact:  383
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 135 GLU
+
+Contact:  384
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 484 GLN
+
+Contact:  385
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 144 PRO
+
+Contact:  386
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 476 ILE
+
+Contact:  387
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 517 THR
+
+Contact:  388
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 517 THR
+
+Contact:  389
+at1 <Atom CA> 493 LYS
+at2 <Atom CA> 517 THR
+
+Contact:  390
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 517 THR
+
+Contact:  391
+at1 <Atom CA> 484 GLN
+at2 <Atom CA> 517 THR
+
+Contact:  392
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 517 THR
+
+Contact:  393
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 517 THR
+
+Contact:  394
+at1 <Atom CA> 476 ILE
+at2 <Atom CA> 517 THR
+
+Contact:  395
+at1 <Atom CA> 442 SER
+at2 <Atom CA> 517 THR
+
+Contact:  396
+at1 <Atom CA> 468 ASN
+at2 <Atom CA> 517 THR
+
+Contact:  397
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 38 VAL
+
+Contact:  398
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 38 VAL
+
+Contact:  399
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 493 LYS
+
+Contact:  400
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 135 GLU
+
+Contact:  401
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 484 GLN
+
+Contact:  402
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 144 PRO
+
+Contact:  403
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 151 SER
+
+Contact:  404
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 476 ILE
+
+Contact:  405
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 442 SER
+
+Contact:  406
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 468 ASN
+
+Contact:  407
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 45 LYS
+
+Contact:  408
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 45 LYS
+
+Contact:  409
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 493 LYS
+
+Contact:  410
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 135 GLU
+
+Contact:  411
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 484 GLN
+
+Contact:  412
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 144 PRO
+
+Contact:  413
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 476 ILE
+
+Contact:  414
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 442 SER
+
+Contact:  415
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 468 ASN
+
+Contact:  416
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 76 GLY
+
+Contact:  417
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 524 LEU
+
+Contact:  418
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 524 LEU
+
+Contact:  419
+at1 <Atom CA> 493 LYS
+at2 <Atom CA> 524 LEU
+
+Contact:  420
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 524 LEU
+
+Contact:  421
+at1 <Atom CA> 484 GLN
+at2 <Atom CA> 524 LEU
+
+Contact:  422
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 524 LEU
+
+Contact:  423
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 524 LEU
+
+Contact:  424
+at1 <Atom CA> 476 ILE
+at2 <Atom CA> 524 LEU
+
+Contact:  425
+at1 <Atom CA> 442 SER
+at2 <Atom CA> 524 LEU
+
+Contact:  426
+at1 <Atom CA> 468 ASN
+at2 <Atom CA> 524 LEU
+
+Contact:  427
+at1 <Atom CA> 434 LEU
+at2 <Atom CA> 502 GLU
+
+Contact:  428
+at1 <Atom CA> 427 THR
+at2 <Atom CA> 502 GLU
+
+Contact:  429
+at1 <Atom CA> 448 ASP
+at2 <Atom CA> 502 GLU
+
+Contact:  430
+at1 <Atom CA> 456 TYR
+at2 <Atom CA> 502 GLU
+
+Contact:  431
+at1 <Atom CA> 416 ARG
+at2 <Atom CA> 502 GLU
+
+Contact:  432
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 502 GLU
+
+Contact:  433
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 502 GLU
+
+Contact:  434
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 502 GLU
+
+Contact:  435
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 502 GLU
+
+Contact:  436
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 434 LEU
+
+Contact:  437
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 427 THR
+
+Contact:  438
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 448 ASP
+
+Contact:  439
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 456 TYR
+
+Contact:  440
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 416 ARG
+
+Contact:  441
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 387 LEU
+
+Contact:  442
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 395 GLU
+
+Contact:  443
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 369 LYS
+
+Contact:  444
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 378 GLN
+
+Contact:  445
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 434 LEU
+
+Contact:  446
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 427 THR
+
+Contact:  447
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 448 ASP
+
+Contact:  448
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 456 TYR
+
+Contact:  449
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 416 ARG
+
+Contact:  450
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 387 LEU
+
+Contact:  451
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 395 GLU
+
+Contact:  452
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 369 LYS
+
+Contact:  453
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 378 GLN
+
+Contact:  454
+at1 <Atom CA> 434 LEU
+at2 <Atom CA> 511 SER
+
+Contact:  455
+at1 <Atom CA> 427 THR
+at2 <Atom CA> 511 SER
+
+Contact:  456
+at1 <Atom CA> 448 ASP
+at2 <Atom CA> 511 SER
+
+Contact:  457
+at1 <Atom CA> 456 TYR
+at2 <Atom CA> 511 SER
+
+Contact:  458
+at1 <Atom CA> 416 ARG
+at2 <Atom CA> 511 SER
+
+Contact:  459
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 511 SER
+
+Contact:  460
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 511 SER
+
+Contact:  461
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 511 SER
+
+Contact:  462
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 511 SER
+
+Contact:  463
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 434 LEU
+
+Contact:  464
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 387 LEU
+
+Contact:  465
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 369 LYS
+
+Contact:  466
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 378 GLN
+
+Contact:  467
+at1 <Atom CA> 434 LEU
+at2 <Atom CA> 517 THR
+
+Contact:  468
+at1 <Atom CA> 427 THR
+at2 <Atom CA> 517 THR
+
+Contact:  469
+at1 <Atom CA> 448 ASP
+at2 <Atom CA> 517 THR
+
+Contact:  470
+at1 <Atom CA> 456 TYR
+at2 <Atom CA> 517 THR
+
+Contact:  471
+at1 <Atom CA> 416 ARG
+at2 <Atom CA> 517 THR
+
+Contact:  472
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 517 THR
+
+Contact:  473
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 517 THR
+
+Contact:  474
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 517 THR
+
+Contact:  475
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 517 THR
+
+Contact:  476
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 434 LEU
+
+Contact:  477
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 427 THR
+
+Contact:  478
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 448 ASP
+
+Contact:  479
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 456 TYR
+
+Contact:  480
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 416 ARG
+
+Contact:  481
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 387 LEU
+
+Contact:  482
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 395 GLU
+
+Contact:  483
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 369 LYS
+
+Contact:  484
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 378 GLN
+
+Contact:  485
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 434 LEU
+
+Contact:  486
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 427 THR
+
+Contact:  487
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 456 TYR
+
+Contact:  488
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 387 LEU
+
+Contact:  489
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 395 GLU
+
+Contact:  490
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 369 LYS
+
+Contact:  491
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 378 GLN
+
+Contact:  492
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 378 GLN
+
+Contact:  493
+at1 <Atom CA> 434 LEU
+at2 <Atom CA> 524 LEU
+
+Contact:  494
+at1 <Atom CA> 427 THR
+at2 <Atom CA> 524 LEU
+
+Contact:  495
+at1 <Atom CA> 448 ASP
+at2 <Atom CA> 524 LEU
+
+Contact:  496
+at1 <Atom CA> 456 TYR
+at2 <Atom CA> 524 LEU
+
+Contact:  497
+at1 <Atom CA> 416 ARG
+at2 <Atom CA> 524 LEU
+
+Contact:  498
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 524 LEU
+
+Contact:  499
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 524 LEU
+
+Contact:  500
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 524 LEU
+
+Contact:  501
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 524 LEU
+
+Contact:  502
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 54 THR
+
+Contact:  503
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 54 THR
+
+Contact:  504
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 493 LYS
+
+Contact:  505
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 484 GLN
+
+Contact:  506
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 476 ILE
+
+Contact:  507
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 532 HIS
+
+Contact:  508
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 532 HIS
+
+Contact:  509
+at1 <Atom CA> 493 LYS
+at2 <Atom CA> 532 HIS
+
+Contact:  510
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 532 HIS
+
+Contact:  511
+at1 <Atom CA> 484 GLN
+at2 <Atom CA> 532 HIS
+
+Contact:  512
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 532 HIS
+
+Contact:  513
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 532 HIS
+
+Contact:  514
+at1 <Atom CA> 476 ILE
+at2 <Atom CA> 532 HIS
+
+Contact:  515
+at1 <Atom CA> 442 SER
+at2 <Atom CA> 532 HIS
+
+Contact:  516
+at1 <Atom CA> 468 ASN
+at2 <Atom CA> 532 HIS
+
+Contact:  517
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 349 PHE
+
+Contact:  518
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 349 PHE
+
+Contact:  519
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 493 LYS
+
+Contact:  520
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 349 PHE
+
+Contact:  521
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 484 GLN
+
+Contact:  522
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 349 PHE
+
+Contact:  523
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 349 PHE
+
+Contact:  524
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 476 ILE
+
+Contact:  525
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 442 SER
+
+Contact:  526
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 468 ASN
+
+Contact:  527
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 542 LEU
+
+Contact:  528
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 542 LEU
+
+Contact:  529
+at1 <Atom CA> 493 LYS
+at2 <Atom CA> 542 LEU
+
+Contact:  530
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 542 LEU
+
+Contact:  531
+at1 <Atom CA> 484 GLN
+at2 <Atom CA> 542 LEU
+
+Contact:  532
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 542 LEU
+
+Contact:  533
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 542 LEU
+
+Contact:  534
+at1 <Atom CA> 476 ILE
+at2 <Atom CA> 542 LEU
+
+Contact:  535
+at1 <Atom CA> 442 SER
+at2 <Atom CA> 542 LEU
+
+Contact:  536
+at1 <Atom CA> 468 ASN
+at2 <Atom CA> 542 LEU
+
+Contact:  537
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 360 ALA
+
+Contact:  538
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 360 ALA
+
+Contact:  539
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 493 LYS
+
+Contact:  540
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 360 ALA
+
+Contact:  541
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 484 GLN
+
+Contact:  542
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 360 ALA
+
+Contact:  543
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 360 ALA
+
+Contact:  544
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 476 ILE
+
+Contact:  545
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 442 SER
+
+Contact:  546
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 468 ASN
+
+Contact:  547
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 61 LEU
+
+Contact:  548
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 333 LEU
+
+Contact:  549
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 333 LEU
+
+Contact:  550
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 493 LYS
+
+Contact:  551
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 333 LEU
+
+Contact:  552
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 484 GLN
+
+Contact:  553
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 333 LEU
+
+Contact:  554
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 333 LEU
+
+Contact:  555
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 476 ILE
+
+Contact:  556
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 442 SER
+
+Contact:  557
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 468 ASN
+
+Contact:  558
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 341 ILE
+
+Contact:  559
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 341 ILE
+
+Contact:  560
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 493 LYS
+
+Contact:  561
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 341 ILE
+
+Contact:  562
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 484 GLN
+
+Contact:  563
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 341 ILE
+
+Contact:  564
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 341 ILE
+
+Contact:  565
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 476 ILE
+
+Contact:  566
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 442 SER
+
+Contact:  567
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 468 ASN
+
+Contact:  568
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 493 LYS
+
+Contact:  569
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 484 GLN
+
+Contact:  570
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 365 GLY
+
+Contact:  571
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 476 ILE
+
+Contact:  572
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 442 SER
+
+Contact:  573
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 468 ASN
+
+Contact:  574
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 434 LEU
+
+Contact:  575
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 456 TYR
+
+Contact:  576
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 387 LEU
+
+Contact:  577
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 395 GLU
+
+Contact:  578
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 369 LYS
+
+Contact:  579
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 378 GLN
+
+Contact:  580
+at1 <Atom CA> 434 LEU
+at2 <Atom CA> 532 HIS
+
+Contact:  581
+at1 <Atom CA> 427 THR
+at2 <Atom CA> 532 HIS
+
+Contact:  582
+at1 <Atom CA> 448 ASP
+at2 <Atom CA> 532 HIS
+
+Contact:  583
+at1 <Atom CA> 456 TYR
+at2 <Atom CA> 532 HIS
+
+Contact:  584
+at1 <Atom CA> 416 ARG
+at2 <Atom CA> 532 HIS
+
+Contact:  585
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 532 HIS
+
+Contact:  586
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 532 HIS
+
+Contact:  587
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 532 HIS
+
+Contact:  588
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 532 HIS
+
+Contact:  589
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 434 LEU
+
+Contact:  590
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 427 THR
+
+Contact:  591
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 448 ASP
+
+Contact:  592
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 456 TYR
+
+Contact:  593
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 416 ARG
+
+Contact:  594
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 387 LEU
+
+Contact:  595
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 395 GLU
+
+Contact:  596
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 369 LYS
+
+Contact:  597
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 378 GLN
+
+Contact:  598
+at1 <Atom CA> 434 LEU
+at2 <Atom CA> 542 LEU
+
+Contact:  599
+at1 <Atom CA> 427 THR
+at2 <Atom CA> 542 LEU
+
+Contact:  600
+at1 <Atom CA> 448 ASP
+at2 <Atom CA> 542 LEU
+
+Contact:  601
+at1 <Atom CA> 456 TYR
+at2 <Atom CA> 542 LEU
+
+Contact:  602
+at1 <Atom CA> 416 ARG
+at2 <Atom CA> 542 LEU
+
+Contact:  603
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 542 LEU
+
+Contact:  604
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 542 LEU
+
+Contact:  605
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 542 LEU
+
+Contact:  606
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 542 LEU
+
+Contact:  607
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 434 LEU
+
+Contact:  608
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 427 THR
+
+Contact:  609
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 448 ASP
+
+Contact:  610
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 456 TYR
+
+Contact:  611
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 416 ARG
+
+Contact:  612
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 387 LEU
+
+Contact:  613
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 395 GLU
+
+Contact:  614
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 369 LYS
+
+Contact:  615
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 378 GLN
+
+Contact:  616
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 387 LEU
+
+Contact:  617
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 395 GLU
+
+Contact:  618
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 369 LYS
+
+Contact:  619
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 378 GLN
+
+Contact:  620
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 434 LEU
+
+Contact:  621
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 427 THR
+
+Contact:  622
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 448 ASP
+
+Contact:  623
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 456 TYR
+
+Contact:  624
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 416 ARG
+
+Contact:  625
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 387 LEU
+
+Contact:  626
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 395 GLU
+
+Contact:  627
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 369 LYS
+
+Contact:  628
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 378 GLN
+
+Contact:  629
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 434 LEU
+
+Contact:  630
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 427 THR
+
+Contact:  631
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 448 ASP
+
+Contact:  632
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 456 TYR
+
+Contact:  633
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 416 ARG
+
+Contact:  634
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 387 LEU
+
+Contact:  635
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 395 GLU
+
+Contact:  636
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 369 LYS
+
+Contact:  637
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 378 GLN
+
+Contact:  638
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 434 LEU
+
+Contact:  639
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 427 THR
+
+Contact:  640
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 448 ASP
+
+Contact:  641
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 456 TYR
+
+Contact:  642
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 416 ARG
+
+Contact:  643
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 387 LEU
+
+Contact:  644
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 395 GLU
+
+Contact:  645
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 369 LYS
+
+Contact:  646
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 378 GLN
+
+Contact:  647
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 128 VAL
+
+Contact:  648
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 119 GLU
+
+Contact:  649
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 157 ASP
+
+Contact:  650
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 244 ASP
+
+Contact:  651
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 218 LYS
+
+Contact:  652
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 197 VAL
+
+Contact:  653
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 189 ASN
+
+Contact:  654
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 213 ALA
+
+Contact:  655
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 235 GLN
+
+Contact:  656
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 128 VAL
+
+Contact:  657
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 157 ASP
+
+Contact:  658
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 244 ASP
+
+Contact:  659
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 218 LYS
+
+Contact:  660
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 197 VAL
+
+Contact:  661
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 189 ASN
+
+Contact:  662
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 213 ALA
+
+Contact:  663
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 235 GLN
+
+Contact:  664
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 157 ASP
+
+Contact:  665
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 244 ASP
+
+Contact:  666
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 218 LYS
+
+Contact:  667
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 197 VAL
+
+Contact:  668
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 189 ASN
+
+Contact:  669
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 213 ALA
+
+Contact:  670
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 235 GLN
+
+Contact:  671
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 244 ASP
+
+Contact:  672
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 218 LYS
+
+Contact:  673
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 197 VAL
+
+Contact:  674
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 189 ASN
+
+Contact:  675
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 213 ALA
+
+Contact:  676
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 235 GLN
+
+Contact:  677
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 244 ASP
+
+Contact:  678
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 244 ASP
+
+Contact:  679
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 244 ASP
+
+Contact:  680
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 244 ASP
+
+Contact:  681
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 244 ASP
+
+Contact:  682
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 218 LYS
+
+Contact:  683
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 218 LYS
+
+Contact:  684
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 218 LYS
+
+Contact:  685
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 235 GLN
+
+Contact:  686
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 197 VAL
+
+Contact:  687
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 213 ALA
+
+Contact:  688
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 235 GLN
+
+Contact:  689
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 213 ALA
+
+Contact:  690
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 235 GLN
+
+Contact:  691
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 235 GLN
+
+Contact:  692
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 204 LYS
+
+Contact:  693
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 172 ILE
+
+Contact:  694
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 180 GLU
+
+Contact:  695
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 412 GLY
+
+Contact:  696
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 289 PRO
+
+Contact:  697
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 404 ASP
+
+Contact:  698
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 322 ARG
+
+Contact:  699
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 296 ASP
+
+Contact:  700
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 204 LYS
+
+Contact:  701
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 204 LYS
+
+Contact:  702
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 412 GLY
+
+Contact:  703
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 289 PRO
+
+Contact:  704
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 404 ASP
+
+Contact:  705
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 322 ARG
+
+Contact:  706
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 296 ASP
+
+Contact:  707
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 180 GLU
+
+Contact:  708
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 412 GLY
+
+Contact:  709
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 289 PRO
+
+Contact:  710
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 404 ASP
+
+Contact:  711
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 322 ARG
+
+Contact:  712
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 296 ASP
+
+Contact:  713
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 412 GLY
+
+Contact:  714
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 289 PRO
+
+Contact:  715
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 404 ASP
+
+Contact:  716
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 322 ARG
+
+Contact:  717
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 296 ASP
+
+Contact:  718
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 412 GLY
+
+Contact:  719
+at1 <Atom CA> 404 ASP
+at2 <Atom CA> 412 GLY
+
+Contact:  720
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 412 GLY
+
+Contact:  721
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 412 GLY
+
+Contact:  722
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 404 ASP
+
+Contact:  723
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 322 ARG
+
+Contact:  724
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 296 ASP
+
+Contact:  725
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 404 ASP
+
+Contact:  726
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 404 ASP
+
+Contact:  727
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 322 ARG
+
+Contact:  728
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 165 THR
+
+Contact:  729
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 204 LYS
+
+Contact:  730
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 172 ILE
+
+Contact:  731
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 180 GLU
+
+Contact:  732
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 412 GLY
+
+Contact:  733
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 289 PRO
+
+Contact:  734
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 404 ASP
+
+Contact:  735
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 322 ARG
+
+Contact:  736
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 165 THR
+
+Contact:  737
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 204 LYS
+
+Contact:  738
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 172 ILE
+
+Contact:  739
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 180 GLU
+
+Contact:  740
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 412 GLY
+
+Contact:  741
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 289 PRO
+
+Contact:  742
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 404 ASP
+
+Contact:  743
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 322 ARG
+
+Contact:  744
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 296 ASP
+
+Contact:  745
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 165 THR
+
+Contact:  746
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 204 LYS
+
+Contact:  747
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 172 ILE
+
+Contact:  748
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 180 GLU
+
+Contact:  749
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 412 GLY
+
+Contact:  750
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 289 PRO
+
+Contact:  751
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 404 ASP
+
+Contact:  752
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 322 ARG
+
+Contact:  753
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 296 ASP
+
+Contact:  754
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 165 THR
+
+Contact:  755
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 204 LYS
+
+Contact:  756
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 172 ILE
+
+Contact:  757
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 180 GLU
+
+Contact:  758
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 412 GLY
+
+Contact:  759
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 289 PRO
+
+Contact:  760
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 404 ASP
+
+Contact:  761
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 322 ARG
+
+Contact:  762
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 296 ASP
+
+Contact:  763
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 244 ASP
+
+Contact:  764
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 244 ASP
+
+Contact:  765
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 244 ASP
+
+Contact:  766
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 244 ASP
+
+Contact:  767
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 412 GLY
+
+Contact:  768
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 289 PRO
+
+Contact:  769
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 404 ASP
+
+Contact:  770
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 322 ARG
+
+Contact:  771
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 296 ASP
+
+Contact:  772
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 218 LYS
+
+Contact:  773
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 218 LYS
+
+Contact:  774
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 218 LYS
+
+Contact:  775
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 218 LYS
+
+Contact:  776
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 412 GLY
+
+Contact:  777
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 289 PRO
+
+Contact:  778
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 404 ASP
+
+Contact:  779
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 322 ARG
+
+Contact:  780
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 296 ASP
+
+Contact:  781
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 197 VAL
+
+Contact:  782
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 204 LYS
+
+Contact:  783
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 197 VAL
+
+Contact:  784
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 197 VAL
+
+Contact:  785
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 412 GLY
+
+Contact:  786
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 289 PRO
+
+Contact:  787
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 404 ASP
+
+Contact:  788
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 322 ARG
+
+Contact:  789
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 296 ASP
+
+Contact:  790
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 189 ASN
+
+Contact:  791
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 204 LYS
+
+Contact:  792
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 189 ASN
+
+Contact:  793
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 189 ASN
+
+Contact:  794
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 412 GLY
+
+Contact:  795
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 289 PRO
+
+Contact:  796
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 404 ASP
+
+Contact:  797
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 322 ARG
+
+Contact:  798
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 296 ASP
+
+Contact:  799
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 213 ALA
+
+Contact:  800
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 213 ALA
+
+Contact:  801
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 213 ALA
+
+Contact:  802
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 213 ALA
+
+Contact:  803
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 412 GLY
+
+Contact:  804
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 289 PRO
+
+Contact:  805
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 404 ASP
+
+Contact:  806
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 322 ARG
+
+Contact:  807
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 296 ASP
+
+Contact:  808
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 235 GLN
+
+Contact:  809
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 235 GLN
+
+Contact:  810
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 235 GLN
+
+Contact:  811
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 235 GLN
+
+Contact:  812
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 412 GLY
+
+Contact:  813
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 289 PRO
+
+Contact:  814
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 404 ASP
+
+Contact:  815
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 322 ARG
+
+Contact:  816
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 296 ASP
+
+Contact:  817
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 104 THR
+
+Contact:  818
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 252 LYS
+
+Contact:  819
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 261 GLU
+
+Contact:  820
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 104 THR
+
+Contact:  821
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 227 ILE
+
+Contact:  822
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 270 GLY
+
+Contact:  823
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 274 ILE
+
+Contact:  824
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 104 THR
+
+Contact:  825
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 282 PRO
+
+Contact:  826
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 252 LYS
+
+Contact:  827
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 261 GLU
+
+Contact:  828
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 96 ILE
+
+Contact:  829
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 227 ILE
+
+Contact:  830
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 270 GLY
+
+Contact:  831
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 274 ILE
+
+Contact:  832
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 96 ILE
+
+Contact:  833
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 282 PRO
+
+Contact:  834
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 261 GLU
+
+Contact:  835
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 252 LYS
+
+Contact:  836
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 252 LYS
+
+Contact:  837
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 270 GLY
+
+Contact:  838
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 274 ILE
+
+Contact:  839
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 252 LYS
+
+Contact:  840
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 282 PRO
+
+Contact:  841
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 261 GLU
+
+Contact:  842
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 261 GLU
+
+Contact:  843
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 270 GLY
+
+Contact:  844
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 274 ILE
+
+Contact:  845
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 261 GLU
+
+Contact:  846
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 282 PRO
+
+Contact:  847
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 227 ILE
+
+Contact:  848
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 270 GLY
+
+Contact:  849
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 274 ILE
+
+Contact:  850
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 80 LYS
+
+Contact:  851
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 282 PRO
+
+Contact:  852
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 270 GLY
+
+Contact:  853
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 274 ILE
+
+Contact:  854
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 227 ILE
+
+Contact:  855
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 282 PRO
+
+Contact:  856
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 274 ILE
+
+Contact:  857
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 270 GLY
+
+Contact:  858
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 282 PRO
+
+Contact:  859
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 274 ILE
+
+Contact:  860
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 282 PRO
+
+Contact:  861
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 282 PRO
+
+Contact:  862
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 550 VAL
+
+Contact:  863
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 557 LEU
+
+Contact:  864
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 313 GLN
+
+Contact:  865
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 565 ARG
+
+Contact:  866
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 576 LEU
+
+Contact:  867
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 584 ARG
+
+Contact:  868
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 595 GLY
+
+Contact:  869
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 599 GLY
+
+Contact:  870
+at1 <Atom CA> 550 VAL
+at2 <Atom CA> 557 LEU
+
+Contact:  871
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 550 VAL
+
+Contact:  872
+at1 <Atom CA> 550 VAL
+at2 <Atom CA> 565 ARG
+
+Contact:  873
+at1 <Atom CA> 550 VAL
+at2 <Atom CA> 576 LEU
+
+Contact:  874
+at1 <Atom CA> 550 VAL
+at2 <Atom CA> 584 ARG
+
+Contact:  875
+at1 <Atom CA> 550 VAL
+at2 <Atom CA> 595 GLY
+
+Contact:  876
+at1 <Atom CA> 550 VAL
+at2 <Atom CA> 599 GLY
+
+Contact:  877
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 557 LEU
+
+Contact:  878
+at1 <Atom CA> 557 LEU
+at2 <Atom CA> 565 ARG
+
+Contact:  879
+at1 <Atom CA> 557 LEU
+at2 <Atom CA> 576 LEU
+
+Contact:  880
+at1 <Atom CA> 557 LEU
+at2 <Atom CA> 584 ARG
+
+Contact:  881
+at1 <Atom CA> 557 LEU
+at2 <Atom CA> 595 GLY
+
+Contact:  882
+at1 <Atom CA> 557 LEU
+at2 <Atom CA> 599 GLY
+
+Contact:  883
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 565 ARG
+
+Contact:  884
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 576 LEU
+
+Contact:  885
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 584 ARG
+
+Contact:  886
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 595 GLY
+
+Contact:  887
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 599 GLY
+
+Contact:  888
+at1 <Atom CA> 565 ARG
+at2 <Atom CA> 576 LEU
+
+Contact:  889
+at1 <Atom CA> 565 ARG
+at2 <Atom CA> 584 ARG
+
+Contact:  890
+at1 <Atom CA> 565 ARG
+at2 <Atom CA> 595 GLY
+
+Contact:  891
+at1 <Atom CA> 565 ARG
+at2 <Atom CA> 599 GLY
+
+Contact:  892
+at1 <Atom CA> 576 LEU
+at2 <Atom CA> 584 ARG
+
+Contact:  893
+at1 <Atom CA> 576 LEU
+at2 <Atom CA> 595 GLY
+
+Contact:  894
+at1 <Atom CA> 576 LEU
+at2 <Atom CA> 599 GLY
+
+Contact:  895
+at1 <Atom CA> 584 ARG
+at2 <Atom CA> 595 GLY
+
+Contact:  896
+at1 <Atom CA> 584 ARG
+at2 <Atom CA> 599 GLY
+
+Contact:  897
+at1 <Atom CA> 595 GLY
+at2 <Atom CA> 599 GLY
+
+Contact:  898
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 313 GLN
+
+Contact:  899
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 550 VAL
+
+Contact:  900
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 557 LEU
+
+Contact:  901
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 304 GLN
+
+Contact:  902
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 313 GLN
+
+Contact:  903
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 550 VAL
+
+Contact:  904
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 557 LEU
+
+Contact:  905
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 304 GLN
+
+Contact:  906
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 565 ARG
+
+Contact:  907
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 576 LEU
+
+Contact:  908
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 313 GLN
+
+Contact:  909
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 550 VAL
+
+Contact:  910
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 557 LEU
+
+Contact:  911
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 304 GLN
+
+Contact:  912
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 565 ARG
+
+Contact:  913
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 576 LEU
+
+Contact:  914
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 313 GLN
+
+Contact:  915
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 550 VAL
+
+Contact:  916
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 557 LEU
+
+Contact:  917
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 304 GLN
+
+Contact:  918
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 565 ARG
+
+Contact:  919
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 576 LEU
+
+Contact:  920
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 584 ARG
+
+Contact:  921
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 313 GLN
+
+Contact:  922
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 550 VAL
+
+Contact:  923
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 557 LEU
+
+Contact:  924
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 304 GLN
+
+Contact:  925
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 565 ARG
+
+Contact:  926
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 576 LEU
+
+Contact:  927
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 313 GLN
+
+Contact:  928
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 550 VAL
+
+Contact:  929
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 557 LEU
+
+Contact:  930
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 304 GLN
+
+Contact:  931
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 565 ARG
+
+Contact:  932
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 576 LEU
+
+Contact:  933
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 584 ARG
+
+Contact:  934
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 313 GLN
+
+Contact:  935
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 550 VAL
+
+Contact:  936
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 557 LEU
+
+Contact:  937
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 304 GLN
+
+Contact:  938
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 565 ARG
+
+Contact:  939
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 576 LEU
+
+Contact:  940
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 584 ARG
+
+Contact:  941
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 595 GLY
+
+Contact:  942
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 313 GLN
+
+Contact:  943
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 550 VAL
+
+Contact:  944
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 557 LEU
+
+Contact:  945
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 304 GLN
+
+Contact:  946
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 565 ARG
+
+Contact:  947
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 576 LEU
+
+Contact:  948
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 584 ARG
+
+Contact:  949
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 595 GLY
+
+Contact:  950
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 599 GLY
+
+Contact:  951
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 313 GLN
+
+Contact:  952
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 550 VAL
+
+Contact:  953
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 557 LEU
+
+Contact:  954
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 304 GLN
+
+Contact:  955
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 565 ARG
+
+Contact:  956
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 576 LEU
+
+Contact:  957
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 584 ARG
+
+Contact:  958
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 595 GLY
+
+Contact:  959
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 599 GLY
+
+Contact:  960
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 313 GLN
+
+Contact:  961
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 550 VAL
+
+Contact:  962
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 557 LEU
+
+Contact:  963
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 304 GLN
+
+Contact:  964
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 565 ARG
+
+Contact:  965
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 576 LEU
+
+Contact:  966
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 584 ARG
+
+Contact:  967
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 595 GLY
+
+Contact:  968
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 599 GLY
+
+Contact:  969
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 119 GLU
+
+Contact:  970
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 128 VAL
+
+Contact:  971
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 111 LEU
+
+Contact:  972
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 157 ASP
+
+Contact:  973
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 244 ASP
+
+Contact:  974
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 218 LYS
+
+Contact:  975
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 197 VAL
+
+Contact:  976
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 189 ASN
+
+Contact:  977
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 213 ALA
+
+Contact:  978
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 235 GLN
+
+Contact:  979
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 119 GLU
+
+Contact:  980
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 128 VAL
+
+Contact:  981
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 111 LEU
+
+Contact:  982
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 157 ASP
+
+Contact:  983
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 244 ASP
+
+Contact:  984
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 218 LYS
+
+Contact:  985
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 197 VAL
+
+Contact:  986
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 189 ASN
+
+Contact:  987
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 213 ALA
+
+Contact:  988
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 235 GLN
+
+Contact:  989
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 252 LYS
+
+Contact:  990
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 252 LYS
+
+Contact:  991
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 252 LYS
+
+Contact:  992
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 252 LYS
+
+Contact:  993
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 252 LYS
+
+Contact:  994
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 252 LYS
+
+Contact:  995
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 252 LYS
+
+Contact:  996
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 252 LYS
+
+Contact:  997
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 252 LYS
+
+Contact:  998
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 252 LYS
+
+Contact:  999
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 261 GLU
+
+Contact:  1000
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 261 GLU
+
+Contact:  1001
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 261 GLU
+
+Contact:  1002
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 261 GLU
+
+Contact:  1003
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 261 GLU
+
+Contact:  1004
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 261 GLU
+
+Contact:  1005
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 261 GLU
+
+Contact:  1006
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 261 GLU
+
+Contact:  1007
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 261 GLU
+
+Contact:  1008
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 261 GLU
+
+Contact:  1009
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 119 GLU
+
+Contact:  1010
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 128 VAL
+
+Contact:  1011
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 111 LEU
+
+Contact:  1012
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 244 ASP
+
+Contact:  1013
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 218 LYS
+
+Contact:  1014
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 197 VAL
+
+Contact:  1015
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 213 ALA
+
+Contact:  1016
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 235 GLN
+
+Contact:  1017
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 227 ILE
+
+Contact:  1018
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 227 ILE
+
+Contact:  1019
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 227 ILE
+
+Contact:  1020
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 227 ILE
+
+Contact:  1021
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 244 ASP
+
+Contact:  1022
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 227 ILE
+
+Contact:  1023
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 227 ILE
+
+Contact:  1024
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 227 ILE
+
+Contact:  1025
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 227 ILE
+
+Contact:  1026
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 235 GLN
+
+Contact:  1027
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 270 GLY
+
+Contact:  1028
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 270 GLY
+
+Contact:  1029
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 270 GLY
+
+Contact:  1030
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 270 GLY
+
+Contact:  1031
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 270 GLY
+
+Contact:  1032
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 270 GLY
+
+Contact:  1033
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 270 GLY
+
+Contact:  1034
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 270 GLY
+
+Contact:  1035
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 270 GLY
+
+Contact:  1036
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 270 GLY
+
+Contact:  1037
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 274 ILE
+
+Contact:  1038
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 274 ILE
+
+Contact:  1039
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 274 ILE
+
+Contact:  1040
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 274 ILE
+
+Contact:  1041
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 274 ILE
+
+Contact:  1042
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 274 ILE
+
+Contact:  1043
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 274 ILE
+
+Contact:  1044
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 274 ILE
+
+Contact:  1045
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 274 ILE
+
+Contact:  1046
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 274 ILE
+
+Contact:  1047
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 111 LEU
+
+Contact:  1048
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 244 ASP
+
+Contact:  1049
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 218 LYS
+
+Contact:  1050
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 197 VAL
+
+Contact:  1051
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 213 ALA
+
+Contact:  1052
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 235 GLN
+
+Contact:  1053
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 282 PRO
+
+Contact:  1054
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 282 PRO
+
+Contact:  1055
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 282 PRO
+
+Contact:  1056
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 282 PRO
+
+Contact:  1057
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 282 PRO
+
+Contact:  1058
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 282 PRO
+
+Contact:  1059
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 282 PRO
+
+Contact:  1060
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 282 PRO
+
+Contact:  1061
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 282 PRO
+
+Contact:  1062
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 282 PRO
+
+Contact:  1063
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 165 THR
+
+Contact:  1064
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 204 LYS
+
+Contact:  1065
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 172 ILE
+
+Contact:  1066
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 180 GLU
+
+Contact:  1067
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 289 PRO
+
+Contact:  1068
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 404 ASP
+
+Contact:  1069
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 322 ARG
+
+Contact:  1070
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 165 THR
+
+Contact:  1071
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 204 LYS
+
+Contact:  1072
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 172 ILE
+
+Contact:  1073
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 180 GLU
+
+Contact:  1074
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 289 PRO
+
+Contact:  1075
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 404 ASP
+
+Contact:  1076
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 322 ARG
+
+Contact:  1077
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 296 ASP
+
+Contact:  1078
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 252 LYS
+
+Contact:  1079
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 252 LYS
+
+Contact:  1080
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 252 LYS
+
+Contact:  1081
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 252 LYS
+
+Contact:  1082
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 289 PRO
+
+Contact:  1083
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 404 ASP
+
+Contact:  1084
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 322 ARG
+
+Contact:  1085
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 296 ASP
+
+Contact:  1086
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 261 GLU
+
+Contact:  1087
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 261 GLU
+
+Contact:  1088
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 261 GLU
+
+Contact:  1089
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 261 GLU
+
+Contact:  1090
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 289 PRO
+
+Contact:  1091
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 404 ASP
+
+Contact:  1092
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 322 ARG
+
+Contact:  1093
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 296 ASP
+
+Contact:  1094
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 204 LYS
+
+Contact:  1095
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 289 PRO
+
+Contact:  1096
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 322 ARG
+
+Contact:  1097
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 296 ASP
+
+Contact:  1098
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 227 ILE
+
+Contact:  1099
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 227 ILE
+
+Contact:  1100
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 227 ILE
+
+Contact:  1101
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 227 ILE
+
+Contact:  1102
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 412 GLY
+
+Contact:  1103
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 289 PRO
+
+Contact:  1104
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 404 ASP
+
+Contact:  1105
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 322 ARG
+
+Contact:  1106
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 296 ASP
+
+Contact:  1107
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 270 GLY
+
+Contact:  1108
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 270 GLY
+
+Contact:  1109
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 270 GLY
+
+Contact:  1110
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 270 GLY
+
+Contact:  1111
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 289 PRO
+
+Contact:  1112
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 404 ASP
+
+Contact:  1113
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 322 ARG
+
+Contact:  1114
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 296 ASP
+
+Contact:  1115
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 274 ILE
+
+Contact:  1116
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 274 ILE
+
+Contact:  1117
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 274 ILE
+
+Contact:  1118
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 274 ILE
+
+Contact:  1119
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 412 GLY
+
+Contact:  1120
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 289 PRO
+
+Contact:  1121
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 404 ASP
+
+Contact:  1122
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 322 ARG
+
+Contact:  1123
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 296 ASP
+
+Contact:  1124
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 204 LYS
+
+Contact:  1125
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 289 PRO
+
+Contact:  1126
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 322 ARG
+
+Contact:  1127
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 296 ASP
+
+Contact:  1128
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 282 PRO
+
+Contact:  1129
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 282 PRO
+
+Contact:  1130
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 282 PRO
+
+Contact:  1131
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 282 PRO
+
+Contact:  1132
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 412 GLY
+
+Contact:  1133
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 289 PRO
+
+Contact:  1134
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 404 ASP
+
+Contact:  1135
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 322 ARG
+
+Contact:  1136
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 296 ASP
+
+Contact:  1137
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 313 GLN
+
+Contact:  1138
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 313 GLN
+
+Contact:  1139
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 313 GLN
+
+Contact:  1140
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 313 GLN
+
+Contact:  1141
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 313 GLN
+
+Contact:  1142
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 313 GLN
+
+Contact:  1143
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 313 GLN
+
+Contact:  1144
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 313 GLN
+
+Contact:  1145
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 313 GLN
+
+Contact:  1146
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 313 GLN
+
+Contact:  1147
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 550 VAL
+
+Contact:  1148
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 550 VAL
+
+Contact:  1149
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 550 VAL
+
+Contact:  1150
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 550 VAL
+
+Contact:  1151
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 550 VAL
+
+Contact:  1152
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 550 VAL
+
+Contact:  1153
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 550 VAL
+
+Contact:  1154
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 550 VAL
+
+Contact:  1155
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 550 VAL
+
+Contact:  1156
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 557 LEU
+
+Contact:  1157
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 557 LEU
+
+Contact:  1158
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 557 LEU
+
+Contact:  1159
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 557 LEU
+
+Contact:  1160
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 557 LEU
+
+Contact:  1161
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 557 LEU
+
+Contact:  1162
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 557 LEU
+
+Contact:  1163
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 304 GLN
+
+Contact:  1164
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 304 GLN
+
+Contact:  1165
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 304 GLN
+
+Contact:  1166
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 304 GLN
+
+Contact:  1167
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 304 GLN
+
+Contact:  1168
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 304 GLN
+
+Contact:  1169
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 304 GLN
+
+Contact:  1170
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 304 GLN
+
+Contact:  1171
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 565 ARG
+
+Contact:  1172
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 565 ARG
+
+Contact:  1173
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 565 ARG
+
+Contact:  1174
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 565 ARG
+
+Contact:  1175
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 565 ARG
+
+Contact:  1176
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 565 ARG
+
+Contact:  1177
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 576 LEU
+
+Contact:  1178
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 576 LEU
+
+Contact:  1179
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 576 LEU
+
+Contact:  1180
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 576 LEU
+
+Contact:  1181
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 576 LEU
+
+Contact:  1182
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 576 LEU
+
+Contact:  1183
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 584 ARG
+
+Contact:  1184
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 584 ARG
+
+Contact:  1185
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 584 ARG
+
+Contact:  1186
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 595 GLY
+
+Contact:  1187
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 313 GLN
+
+Contact:  1188
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 313 GLN
+
+Contact:  1189
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 313 GLN
+
+Contact:  1190
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 313 GLN
+
+Contact:  1191
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 412 GLY
+
+Contact:  1192
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 313 GLN
+
+Contact:  1193
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 404 ASP
+
+Contact:  1194
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 322 ARG
+
+Contact:  1195
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 313 GLN
+
+Contact:  1196
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 550 VAL
+
+Contact:  1197
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 550 VAL
+
+Contact:  1198
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 550 VAL
+
+Contact:  1199
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 550 VAL
+
+Contact:  1200
+at1 <Atom CA> 412 GLY
+at2 <Atom CA> 550 VAL
+
+Contact:  1201
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 550 VAL
+
+Contact:  1202
+at1 <Atom CA> 404 ASP
+at2 <Atom CA> 550 VAL
+
+Contact:  1203
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 550 VAL
+
+Contact:  1204
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 550 VAL
+
+Contact:  1205
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 557 LEU
+
+Contact:  1206
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 557 LEU
+
+Contact:  1207
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 557 LEU
+
+Contact:  1208
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 557 LEU
+
+Contact:  1209
+at1 <Atom CA> 412 GLY
+at2 <Atom CA> 557 LEU
+
+Contact:  1210
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 557 LEU
+
+Contact:  1211
+at1 <Atom CA> 404 ASP
+at2 <Atom CA> 557 LEU
+
+Contact:  1212
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 557 LEU
+
+Contact:  1213
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 557 LEU
+
+Contact:  1214
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 304 GLN
+
+Contact:  1215
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 304 GLN
+
+Contact:  1216
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 304 GLN
+
+Contact:  1217
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 304 GLN
+
+Contact:  1218
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 412 GLY
+
+Contact:  1219
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 304 GLN
+
+Contact:  1220
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 404 ASP
+
+Contact:  1221
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 322 ARG
+
+Contact:  1222
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 304 GLN
+
+Contact:  1223
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 565 ARG
+
+Contact:  1224
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 565 ARG
+
+Contact:  1225
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 565 ARG
+
+Contact:  1226
+at1 <Atom CA> 412 GLY
+at2 <Atom CA> 565 ARG
+
+Contact:  1227
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 565 ARG
+
+Contact:  1228
+at1 <Atom CA> 404 ASP
+at2 <Atom CA> 565 ARG
+
+Contact:  1229
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 565 ARG
+
+Contact:  1230
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 565 ARG
+
+Contact:  1231
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 576 LEU
+
+Contact:  1232
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 576 LEU
+
+Contact:  1233
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 576 LEU
+
+Contact:  1234
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 576 LEU
+
+Contact:  1235
+at1 <Atom CA> 404 ASP
+at2 <Atom CA> 576 LEU
+
+Contact:  1236
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 576 LEU
+
+Contact:  1237
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 576 LEU
+
+Contact:  1238
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 584 ARG
+
+Contact:  1239
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 584 ARG
+
+Contact:  1240
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 584 ARG
+
+Contact:  1241
+at1 <Atom CA> 404 ASP
+at2 <Atom CA> 584 ARG
+
+Contact:  1242
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 584 ARG
+
+Contact:  1243
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 584 ARG
+
+Contact:  1244
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 595 GLY
+
+Contact:  1245
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 595 GLY
+
+Contact:  1246
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 595 GLY
+
+Contact:  1247
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 599 GLY
+
+Contact:  1248
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 599 GLY
+
+Contact:  1249
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 599 GLY
+
+Contact:  1250
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 119 GLU
+
+Contact:  1251
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 128 VAL
+
+Contact:  1252
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 111 LEU
+
+Contact:  1253
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 157 ASP
+
+Contact:  1254
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 244 ASP
+
+Contact:  1255
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 218 LYS
+
+Contact:  1256
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 197 VAL
+
+Contact:  1257
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 189 ASN
+
+Contact:  1258
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 213 ALA
+
+Contact:  1259
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 235 GLN
+
+Contact:  1260
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 119 GLU
+
+Contact:  1261
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 128 VAL
+
+Contact:  1262
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 111 LEU
+
+Contact:  1263
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 157 ASP
+
+Contact:  1264
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 244 ASP
+
+Contact:  1265
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 218 LYS
+
+Contact:  1266
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 197 VAL
+
+Contact:  1267
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 189 ASN
+
+Contact:  1268
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 213 ALA
+
+Contact:  1269
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 235 GLN
+
+Contact:  1270
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 493 LYS
+
+Contact:  1271
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 493 LYS
+
+Contact:  1272
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 493 LYS
+
+Contact:  1273
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 493 LYS
+
+Contact:  1274
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 493 LYS
+
+Contact:  1275
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 493 LYS
+
+Contact:  1276
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 493 LYS
+
+Contact:  1277
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 493 LYS
+
+Contact:  1278
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 135 GLU
+
+Contact:  1279
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 135 GLU
+
+Contact:  1280
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 135 GLU
+
+Contact:  1281
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 157 ASP
+
+Contact:  1282
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 244 ASP
+
+Contact:  1283
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 218 LYS
+
+Contact:  1284
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 197 VAL
+
+Contact:  1285
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 189 ASN
+
+Contact:  1286
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 213 ALA
+
+Contact:  1287
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 235 GLN
+
+Contact:  1288
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 484 GLN
+
+Contact:  1289
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 484 GLN
+
+Contact:  1290
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 484 GLN
+
+Contact:  1291
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 484 GLN
+
+Contact:  1292
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 484 GLN
+
+Contact:  1293
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 484 GLN
+
+Contact:  1294
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 484 GLN
+
+Contact:  1295
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 484 GLN
+
+Contact:  1296
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 144 PRO
+
+Contact:  1297
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 144 PRO
+
+Contact:  1298
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 144 PRO
+
+Contact:  1299
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 157 ASP
+
+Contact:  1300
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 244 ASP
+
+Contact:  1301
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 218 LYS
+
+Contact:  1302
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 197 VAL
+
+Contact:  1303
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 189 ASN
+
+Contact:  1304
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 213 ALA
+
+Contact:  1305
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 235 GLN
+
+Contact:  1306
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 151 SER
+
+Contact:  1307
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 151 SER
+
+Contact:  1308
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 151 SER
+
+Contact:  1309
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 157 ASP
+
+Contact:  1310
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 244 ASP
+
+Contact:  1311
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 218 LYS
+
+Contact:  1312
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 197 VAL
+
+Contact:  1313
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 189 ASN
+
+Contact:  1314
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 213 ALA
+
+Contact:  1315
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 235 GLN
+
+Contact:  1316
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 476 ILE
+
+Contact:  1317
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 476 ILE
+
+Contact:  1318
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 476 ILE
+
+Contact:  1319
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 476 ILE
+
+Contact:  1320
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 476 ILE
+
+Contact:  1321
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 476 ILE
+
+Contact:  1322
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 476 ILE
+
+Contact:  1323
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 476 ILE
+
+Contact:  1324
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 442 SER
+
+Contact:  1325
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 442 SER
+
+Contact:  1326
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 442 SER
+
+Contact:  1327
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 442 SER
+
+Contact:  1328
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 442 SER
+
+Contact:  1329
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 442 SER
+
+Contact:  1330
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 442 SER
+
+Contact:  1331
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 442 SER
+
+Contact:  1332
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 468 ASN
+
+Contact:  1333
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 468 ASN
+
+Contact:  1334
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 468 ASN
+
+Contact:  1335
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 468 ASN
+
+Contact:  1336
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 468 ASN
+
+Contact:  1337
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 468 ASN
+
+Contact:  1338
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 468 ASN
+
+Contact:  1339
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 165 THR
+
+Contact:  1340
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 204 LYS
+
+Contact:  1341
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 172 ILE
+
+Contact:  1342
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 180 GLU
+
+Contact:  1343
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 412 GLY
+
+Contact:  1344
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 404 ASP
+
+Contact:  1345
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 165 THR
+
+Contact:  1346
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 204 LYS
+
+Contact:  1347
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 172 ILE
+
+Contact:  1348
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 180 GLU
+
+Contact:  1349
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 289 PRO
+
+Contact:  1350
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 404 ASP
+
+Contact:  1351
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 322 ARG
+
+Contact:  1352
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 493 LYS
+
+Contact:  1353
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 493 LYS
+
+Contact:  1354
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 493 LYS
+
+Contact:  1355
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 493 LYS
+
+Contact:  1356
+at1 <Atom CA> 404 ASP
+at2 <Atom CA> 493 LYS
+
+Contact:  1357
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 165 THR
+
+Contact:  1358
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 204 LYS
+
+Contact:  1359
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 172 ILE
+
+Contact:  1360
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 180 GLU
+
+Contact:  1361
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 412 GLY
+
+Contact:  1362
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 289 PRO
+
+Contact:  1363
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 404 ASP
+
+Contact:  1364
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 322 ARG
+
+Contact:  1365
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 484 GLN
+
+Contact:  1366
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 484 GLN
+
+Contact:  1367
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 484 GLN
+
+Contact:  1368
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 484 GLN
+
+Contact:  1369
+at1 <Atom CA> 412 GLY
+at2 <Atom CA> 484 GLN
+
+Contact:  1370
+at1 <Atom CA> 404 ASP
+at2 <Atom CA> 484 GLN
+
+Contact:  1371
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 484 GLN
+
+Contact:  1372
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 165 THR
+
+Contact:  1373
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 204 LYS
+
+Contact:  1374
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 172 ILE
+
+Contact:  1375
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 180 GLU
+
+Contact:  1376
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 412 GLY
+
+Contact:  1377
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 289 PRO
+
+Contact:  1378
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 404 ASP
+
+Contact:  1379
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 322 ARG
+
+Contact:  1380
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 165 THR
+
+Contact:  1381
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 204 LYS
+
+Contact:  1382
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 172 ILE
+
+Contact:  1383
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 180 GLU
+
+Contact:  1384
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 412 GLY
+
+Contact:  1385
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 289 PRO
+
+Contact:  1386
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 404 ASP
+
+Contact:  1387
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 322 ARG
+
+Contact:  1388
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 476 ILE
+
+Contact:  1389
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 476 ILE
+
+Contact:  1390
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 476 ILE
+
+Contact:  1391
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 476 ILE
+
+Contact:  1392
+at1 <Atom CA> 412 GLY
+at2 <Atom CA> 476 ILE
+
+Contact:  1393
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 476 ILE
+
+Contact:  1394
+at1 <Atom CA> 404 ASP
+at2 <Atom CA> 476 ILE
+
+Contact:  1395
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 476 ILE
+
+Contact:  1396
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 442 SER
+
+Contact:  1397
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 442 SER
+
+Contact:  1398
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 442 SER
+
+Contact:  1399
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 442 SER
+
+Contact:  1400
+at1 <Atom CA> 412 GLY
+at2 <Atom CA> 442 SER
+
+Contact:  1401
+at1 <Atom CA> 404 ASP
+at2 <Atom CA> 442 SER
+
+Contact:  1402
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 442 SER
+
+Contact:  1403
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 468 ASN
+
+Contact:  1404
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 468 ASN
+
+Contact:  1405
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 468 ASN
+
+Contact:  1406
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 468 ASN
+
+Contact:  1407
+at1 <Atom CA> 412 GLY
+at2 <Atom CA> 468 ASN
+
+Contact:  1408
+at1 <Atom CA> 404 ASP
+at2 <Atom CA> 468 ASN
+
+Contact:  1409
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 468 ASN
+
+Contact:  1410
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 434 LEU
+
+Contact:  1411
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 434 LEU
+
+Contact:  1412
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 434 LEU
+
+Contact:  1413
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 434 LEU
+
+Contact:  1414
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 434 LEU
+
+Contact:  1415
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 434 LEU
+
+Contact:  1416
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 434 LEU
+
+Contact:  1417
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 434 LEU
+
+Contact:  1418
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 434 LEU
+
+Contact:  1419
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 434 LEU
+
+Contact:  1420
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 427 THR
+
+Contact:  1421
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 427 THR
+
+Contact:  1422
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 427 THR
+
+Contact:  1423
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 427 THR
+
+Contact:  1424
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 427 THR
+
+Contact:  1425
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 427 THR
+
+Contact:  1426
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 427 THR
+
+Contact:  1427
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 427 THR
+
+Contact:  1428
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 427 THR
+
+Contact:  1429
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 427 THR
+
+Contact:  1430
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 448 ASP
+
+Contact:  1431
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 448 ASP
+
+Contact:  1432
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 448 ASP
+
+Contact:  1433
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 448 ASP
+
+Contact:  1434
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 448 ASP
+
+Contact:  1435
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 448 ASP
+
+Contact:  1436
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 448 ASP
+
+Contact:  1437
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 448 ASP
+
+Contact:  1438
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 456 TYR
+
+Contact:  1439
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 456 TYR
+
+Contact:  1440
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 456 TYR
+
+Contact:  1441
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 456 TYR
+
+Contact:  1442
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 456 TYR
+
+Contact:  1443
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 456 TYR
+
+Contact:  1444
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 456 TYR
+
+Contact:  1445
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 456 TYR
+
+Contact:  1446
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 416 ARG
+
+Contact:  1447
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 416 ARG
+
+Contact:  1448
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 416 ARG
+
+Contact:  1449
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 416 ARG
+
+Contact:  1450
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 416 ARG
+
+Contact:  1451
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 416 ARG
+
+Contact:  1452
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 416 ARG
+
+Contact:  1453
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 416 ARG
+
+Contact:  1454
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 416 ARG
+
+Contact:  1455
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 387 LEU
+
+Contact:  1456
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 387 LEU
+
+Contact:  1457
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 387 LEU
+
+Contact:  1458
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 387 LEU
+
+Contact:  1459
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 387 LEU
+
+Contact:  1460
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 387 LEU
+
+Contact:  1461
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 387 LEU
+
+Contact:  1462
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 387 LEU
+
+Contact:  1463
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 387 LEU
+
+Contact:  1464
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 387 LEU
+
+Contact:  1465
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 395 GLU
+
+Contact:  1466
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 395 GLU
+
+Contact:  1467
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 395 GLU
+
+Contact:  1468
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 395 GLU
+
+Contact:  1469
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 395 GLU
+
+Contact:  1470
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 395 GLU
+
+Contact:  1471
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 395 GLU
+
+Contact:  1472
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 395 GLU
+
+Contact:  1473
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 395 GLU
+
+Contact:  1474
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 395 GLU
+
+Contact:  1475
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 369 LYS
+
+Contact:  1476
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 369 LYS
+
+Contact:  1477
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 369 LYS
+
+Contact:  1478
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 369 LYS
+
+Contact:  1479
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 369 LYS
+
+Contact:  1480
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 369 LYS
+
+Contact:  1481
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 378 GLN
+
+Contact:  1482
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 378 GLN
+
+Contact:  1483
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 378 GLN
+
+Contact:  1484
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 378 GLN
+
+Contact:  1485
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 378 GLN
+
+Contact:  1486
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 378 GLN
+
+Contact:  1487
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 378 GLN
+
+Contact:  1488
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 378 GLN
+
+Contact:  1489
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 434 LEU
+
+Contact:  1490
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 434 LEU
+
+Contact:  1491
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 434 LEU
+
+Contact:  1492
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 434 LEU
+
+Contact:  1493
+at1 <Atom CA> 412 GLY
+at2 <Atom CA> 434 LEU
+
+Contact:  1494
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 434 LEU
+
+Contact:  1495
+at1 <Atom CA> 404 ASP
+at2 <Atom CA> 434 LEU
+
+Contact:  1496
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 434 LEU
+
+Contact:  1497
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 434 LEU
+
+Contact:  1498
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 427 THR
+
+Contact:  1499
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 427 THR
+
+Contact:  1500
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 427 THR
+
+Contact:  1501
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 427 THR
+
+Contact:  1502
+at1 <Atom CA> 412 GLY
+at2 <Atom CA> 427 THR
+
+Contact:  1503
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 427 THR
+
+Contact:  1504
+at1 <Atom CA> 404 ASP
+at2 <Atom CA> 427 THR
+
+Contact:  1505
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 427 THR
+
+Contact:  1506
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 427 THR
+
+Contact:  1507
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 448 ASP
+
+Contact:  1508
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 448 ASP
+
+Contact:  1509
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 448 ASP
+
+Contact:  1510
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 448 ASP
+
+Contact:  1511
+at1 <Atom CA> 412 GLY
+at2 <Atom CA> 448 ASP
+
+Contact:  1512
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 448 ASP
+
+Contact:  1513
+at1 <Atom CA> 404 ASP
+at2 <Atom CA> 448 ASP
+
+Contact:  1514
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 448 ASP
+
+Contact:  1515
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 456 TYR
+
+Contact:  1516
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 456 TYR
+
+Contact:  1517
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 456 TYR
+
+Contact:  1518
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 456 TYR
+
+Contact:  1519
+at1 <Atom CA> 412 GLY
+at2 <Atom CA> 456 TYR
+
+Contact:  1520
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 456 TYR
+
+Contact:  1521
+at1 <Atom CA> 404 ASP
+at2 <Atom CA> 456 TYR
+
+Contact:  1522
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 456 TYR
+
+Contact:  1523
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 416 ARG
+
+Contact:  1524
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 416 ARG
+
+Contact:  1525
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 416 ARG
+
+Contact:  1526
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 416 ARG
+
+Contact:  1527
+at1 <Atom CA> 412 GLY
+at2 <Atom CA> 416 ARG
+
+Contact:  1528
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 416 ARG
+
+Contact:  1529
+at1 <Atom CA> 404 ASP
+at2 <Atom CA> 416 ARG
+
+Contact:  1530
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 416 ARG
+
+Contact:  1531
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 416 ARG
+
+Contact:  1532
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 387 LEU
+
+Contact:  1533
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 387 LEU
+
+Contact:  1534
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 387 LEU
+
+Contact:  1535
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 387 LEU
+
+Contact:  1536
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 412 GLY
+
+Contact:  1537
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 387 LEU
+
+Contact:  1538
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 404 ASP
+
+Contact:  1539
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 387 LEU
+
+Contact:  1540
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 387 LEU
+
+Contact:  1541
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 395 GLU
+
+Contact:  1542
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 395 GLU
+
+Contact:  1543
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 395 GLU
+
+Contact:  1544
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 395 GLU
+
+Contact:  1545
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 412 GLY
+
+Contact:  1546
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 395 GLU
+
+Contact:  1547
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 404 ASP
+
+Contact:  1548
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 395 GLU
+
+Contact:  1549
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 395 GLU
+
+Contact:  1550
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 369 LYS
+
+Contact:  1551
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 369 LYS
+
+Contact:  1552
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 369 LYS
+
+Contact:  1553
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 369 LYS
+
+Contact:  1554
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 412 GLY
+
+Contact:  1555
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 369 LYS
+
+Contact:  1556
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 404 ASP
+
+Contact:  1557
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 369 LYS
+
+Contact:  1558
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 369 LYS
+
+Contact:  1559
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 378 GLN
+
+Contact:  1560
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 378 GLN
+
+Contact:  1561
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 378 GLN
+
+Contact:  1562
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 378 GLN
+
+Contact:  1563
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 412 GLY
+
+Contact:  1564
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 378 GLN
+
+Contact:  1565
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 404 ASP
+
+Contact:  1566
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 378 GLN
+
+Contact:  1567
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 378 GLN
+
+Contact:  1568
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 502 GLU
+
+Contact:  1569
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 502 GLU
+
+Contact:  1570
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 502 GLU
+
+Contact:  1571
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 502 GLU
+
+Contact:  1572
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 502 GLU
+
+Contact:  1573
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 502 GLU
+
+Contact:  1574
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 502 GLU
+
+Contact:  1575
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 502 GLU
+
+Contact:  1576
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 119 GLU
+
+Contact:  1577
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 128 VAL
+
+Contact:  1578
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 111 LEU
+
+Contact:  1579
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 157 ASP
+
+Contact:  1580
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 244 ASP
+
+Contact:  1581
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 218 LYS
+
+Contact:  1582
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 197 VAL
+
+Contact:  1583
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 189 ASN
+
+Contact:  1584
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 213 ALA
+
+Contact:  1585
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 235 GLN
+
+Contact:  1586
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 119 GLU
+
+Contact:  1587
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 128 VAL
+
+Contact:  1588
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 111 LEU
+
+Contact:  1589
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 157 ASP
+
+Contact:  1590
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 244 ASP
+
+Contact:  1591
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 218 LYS
+
+Contact:  1592
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 197 VAL
+
+Contact:  1593
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 189 ASN
+
+Contact:  1594
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 213 ALA
+
+Contact:  1595
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 235 GLN
+
+Contact:  1596
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 511 SER
+
+Contact:  1597
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 511 SER
+
+Contact:  1598
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 511 SER
+
+Contact:  1599
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 511 SER
+
+Contact:  1600
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 511 SER
+
+Contact:  1601
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 511 SER
+
+Contact:  1602
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 511 SER
+
+Contact:  1603
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 511 SER
+
+Contact:  1604
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 511 SER
+
+Contact:  1605
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 119 GLU
+
+Contact:  1606
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 128 VAL
+
+Contact:  1607
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 111 LEU
+
+Contact:  1608
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 157 ASP
+
+Contact:  1609
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 244 ASP
+
+Contact:  1610
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 218 LYS
+
+Contact:  1611
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 197 VAL
+
+Contact:  1612
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 189 ASN
+
+Contact:  1613
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 213 ALA
+
+Contact:  1614
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 235 GLN
+
+Contact:  1615
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 517 THR
+
+Contact:  1616
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 517 THR
+
+Contact:  1617
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 517 THR
+
+Contact:  1618
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 517 THR
+
+Contact:  1619
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 517 THR
+
+Contact:  1620
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 517 THR
+
+Contact:  1621
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 517 THR
+
+Contact:  1622
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 517 THR
+
+Contact:  1623
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 517 THR
+
+Contact:  1624
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 517 THR
+
+Contact:  1625
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 119 GLU
+
+Contact:  1626
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 128 VAL
+
+Contact:  1627
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 111 LEU
+
+Contact:  1628
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 157 ASP
+
+Contact:  1629
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 244 ASP
+
+Contact:  1630
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 218 LYS
+
+Contact:  1631
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 197 VAL
+
+Contact:  1632
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 189 ASN
+
+Contact:  1633
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 213 ALA
+
+Contact:  1634
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 235 GLN
+
+Contact:  1635
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 119 GLU
+
+Contact:  1636
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 128 VAL
+
+Contact:  1637
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 111 LEU
+
+Contact:  1638
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 157 ASP
+
+Contact:  1639
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 244 ASP
+
+Contact:  1640
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 218 LYS
+
+Contact:  1641
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 197 VAL
+
+Contact:  1642
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 189 ASN
+
+Contact:  1643
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 213 ALA
+
+Contact:  1644
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 235 GLN
+
+Contact:  1645
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 119 GLU
+
+Contact:  1646
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 111 LEU
+
+Contact:  1647
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 244 ASP
+
+Contact:  1648
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 218 LYS
+
+Contact:  1649
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 197 VAL
+
+Contact:  1650
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 235 GLN
+
+Contact:  1651
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 524 LEU
+
+Contact:  1652
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 524 LEU
+
+Contact:  1653
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 524 LEU
+
+Contact:  1654
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 524 LEU
+
+Contact:  1655
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 524 LEU
+
+Contact:  1656
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 524 LEU
+
+Contact:  1657
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 524 LEU
+
+Contact:  1658
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 524 LEU
+
+Contact:  1659
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 524 LEU
+
+Contact:  1660
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 524 LEU
+
+Contact:  1661
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 502 GLU
+
+Contact:  1662
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 502 GLU
+
+Contact:  1663
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 502 GLU
+
+Contact:  1664
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 502 GLU
+
+Contact:  1665
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 502 GLU
+
+Contact:  1666
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 165 THR
+
+Contact:  1667
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 204 LYS
+
+Contact:  1668
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 172 ILE
+
+Contact:  1669
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 180 GLU
+
+Contact:  1670
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 412 GLY
+
+Contact:  1671
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 289 PRO
+
+Contact:  1672
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 404 ASP
+
+Contact:  1673
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 322 ARG
+
+Contact:  1674
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 165 THR
+
+Contact:  1675
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 204 LYS
+
+Contact:  1676
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 172 ILE
+
+Contact:  1677
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 180 GLU
+
+Contact:  1678
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 289 PRO
+
+Contact:  1679
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 404 ASP
+
+Contact:  1680
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 322 ARG
+
+Contact:  1681
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 296 ASP
+
+Contact:  1682
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 511 SER
+
+Contact:  1683
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 511 SER
+
+Contact:  1684
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 511 SER
+
+Contact:  1685
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 511 SER
+
+Contact:  1686
+at1 <Atom CA> 412 GLY
+at2 <Atom CA> 511 SER
+
+Contact:  1687
+at1 <Atom CA> 404 ASP
+at2 <Atom CA> 511 SER
+
+Contact:  1688
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 511 SER
+
+Contact:  1689
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 204 LYS
+
+Contact:  1690
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 172 ILE
+
+Contact:  1691
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 180 GLU
+
+Contact:  1692
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 289 PRO
+
+Contact:  1693
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 322 ARG
+
+Contact:  1694
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 296 ASP
+
+Contact:  1695
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 517 THR
+
+Contact:  1696
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 517 THR
+
+Contact:  1697
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 517 THR
+
+Contact:  1698
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 517 THR
+
+Contact:  1699
+at1 <Atom CA> 412 GLY
+at2 <Atom CA> 517 THR
+
+Contact:  1700
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 517 THR
+
+Contact:  1701
+at1 <Atom CA> 404 ASP
+at2 <Atom CA> 517 THR
+
+Contact:  1702
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 517 THR
+
+Contact:  1703
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 165 THR
+
+Contact:  1704
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 204 LYS
+
+Contact:  1705
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 172 ILE
+
+Contact:  1706
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 180 GLU
+
+Contact:  1707
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 412 GLY
+
+Contact:  1708
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 289 PRO
+
+Contact:  1709
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 404 ASP
+
+Contact:  1710
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 322 ARG
+
+Contact:  1711
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 296 ASP
+
+Contact:  1712
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 165 THR
+
+Contact:  1713
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 204 LYS
+
+Contact:  1714
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 172 ILE
+
+Contact:  1715
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 180 GLU
+
+Contact:  1716
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 289 PRO
+
+Contact:  1717
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 404 ASP
+
+Contact:  1718
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 322 ARG
+
+Contact:  1719
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 296 ASP
+
+Contact:  1720
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 204 LYS
+
+Contact:  1721
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 289 PRO
+
+Contact:  1722
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 322 ARG
+
+Contact:  1723
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 524 LEU
+
+Contact:  1724
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 524 LEU
+
+Contact:  1725
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 524 LEU
+
+Contact:  1726
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 524 LEU
+
+Contact:  1727
+at1 <Atom CA> 412 GLY
+at2 <Atom CA> 524 LEU
+
+Contact:  1728
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 524 LEU
+
+Contact:  1729
+at1 <Atom CA> 404 ASP
+at2 <Atom CA> 524 LEU
+
+Contact:  1730
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 524 LEU
+
+Contact:  1731
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 524 LEU
+
+Contact:  1732
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 119 GLU
+
+Contact:  1733
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 128 VAL
+
+Contact:  1734
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 111 LEU
+
+Contact:  1735
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 244 ASP
+
+Contact:  1736
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 218 LYS
+
+Contact:  1737
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 197 VAL
+
+Contact:  1738
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 189 ASN
+
+Contact:  1739
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 213 ALA
+
+Contact:  1740
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 235 GLN
+
+Contact:  1741
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 532 HIS
+
+Contact:  1742
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 532 HIS
+
+Contact:  1743
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 532 HIS
+
+Contact:  1744
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 532 HIS
+
+Contact:  1745
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 532 HIS
+
+Contact:  1746
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 532 HIS
+
+Contact:  1747
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 532 HIS
+
+Contact:  1748
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 532 HIS
+
+Contact:  1749
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 532 HIS
+
+Contact:  1750
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 532 HIS
+
+Contact:  1751
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 349 PHE
+
+Contact:  1752
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 349 PHE
+
+Contact:  1753
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 349 PHE
+
+Contact:  1754
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 349 PHE
+
+Contact:  1755
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 349 PHE
+
+Contact:  1756
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 349 PHE
+
+Contact:  1757
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 349 PHE
+
+Contact:  1758
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 349 PHE
+
+Contact:  1759
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 349 PHE
+
+Contact:  1760
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 542 LEU
+
+Contact:  1761
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 542 LEU
+
+Contact:  1762
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 542 LEU
+
+Contact:  1763
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 542 LEU
+
+Contact:  1764
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 542 LEU
+
+Contact:  1765
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 542 LEU
+
+Contact:  1766
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 542 LEU
+
+Contact:  1767
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 542 LEU
+
+Contact:  1768
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 542 LEU
+
+Contact:  1769
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 542 LEU
+
+Contact:  1770
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 360 ALA
+
+Contact:  1771
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 360 ALA
+
+Contact:  1772
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 360 ALA
+
+Contact:  1773
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 360 ALA
+
+Contact:  1774
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 360 ALA
+
+Contact:  1775
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 360 ALA
+
+Contact:  1776
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 111 LEU
+
+Contact:  1777
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 244 ASP
+
+Contact:  1778
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 218 LYS
+
+Contact:  1779
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 197 VAL
+
+Contact:  1780
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 213 ALA
+
+Contact:  1781
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 235 GLN
+
+Contact:  1782
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 333 LEU
+
+Contact:  1783
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 333 LEU
+
+Contact:  1784
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 333 LEU
+
+Contact:  1785
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 333 LEU
+
+Contact:  1786
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 333 LEU
+
+Contact:  1787
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 333 LEU
+
+Contact:  1788
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 333 LEU
+
+Contact:  1789
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 333 LEU
+
+Contact:  1790
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 333 LEU
+
+Contact:  1791
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 333 LEU
+
+Contact:  1792
+at1 <Atom CA> 119 GLU
+at2 <Atom CA> 341 ILE
+
+Contact:  1793
+at1 <Atom CA> 128 VAL
+at2 <Atom CA> 341 ILE
+
+Contact:  1794
+at1 <Atom CA> 111 LEU
+at2 <Atom CA> 341 ILE
+
+Contact:  1795
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 341 ILE
+
+Contact:  1796
+at1 <Atom CA> 244 ASP
+at2 <Atom CA> 341 ILE
+
+Contact:  1797
+at1 <Atom CA> 218 LYS
+at2 <Atom CA> 341 ILE
+
+Contact:  1798
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 341 ILE
+
+Contact:  1799
+at1 <Atom CA> 189 ASN
+at2 <Atom CA> 341 ILE
+
+Contact:  1800
+at1 <Atom CA> 213 ALA
+at2 <Atom CA> 341 ILE
+
+Contact:  1801
+at1 <Atom CA> 235 GLN
+at2 <Atom CA> 341 ILE
+
+Contact:  1802
+at1 <Atom CA> 157 ASP
+at2 <Atom CA> 365 GLY
+
+Contact:  1803
+at1 <Atom CA> 197 VAL
+at2 <Atom CA> 365 GLY
+
+Contact:  1804
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 165 THR
+
+Contact:  1805
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 204 LYS
+
+Contact:  1806
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 172 ILE
+
+Contact:  1807
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 180 GLU
+
+Contact:  1808
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 289 PRO
+
+Contact:  1809
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 404 ASP
+
+Contact:  1810
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 322 ARG
+
+Contact:  1811
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 296 ASP
+
+Contact:  1812
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 532 HIS
+
+Contact:  1813
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 532 HIS
+
+Contact:  1814
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 532 HIS
+
+Contact:  1815
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 532 HIS
+
+Contact:  1816
+at1 <Atom CA> 412 GLY
+at2 <Atom CA> 532 HIS
+
+Contact:  1817
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 532 HIS
+
+Contact:  1818
+at1 <Atom CA> 404 ASP
+at2 <Atom CA> 532 HIS
+
+Contact:  1819
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 532 HIS
+
+Contact:  1820
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 532 HIS
+
+Contact:  1821
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 349 PHE
+
+Contact:  1822
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 349 PHE
+
+Contact:  1823
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 349 PHE
+
+Contact:  1824
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 349 PHE
+
+Contact:  1825
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 412 GLY
+
+Contact:  1826
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 349 PHE
+
+Contact:  1827
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 404 ASP
+
+Contact:  1828
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 349 PHE
+
+Contact:  1829
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 349 PHE
+
+Contact:  1830
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 542 LEU
+
+Contact:  1831
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 542 LEU
+
+Contact:  1832
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 542 LEU
+
+Contact:  1833
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 542 LEU
+
+Contact:  1834
+at1 <Atom CA> 412 GLY
+at2 <Atom CA> 542 LEU
+
+Contact:  1835
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 542 LEU
+
+Contact:  1836
+at1 <Atom CA> 404 ASP
+at2 <Atom CA> 542 LEU
+
+Contact:  1837
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 542 LEU
+
+Contact:  1838
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 542 LEU
+
+Contact:  1839
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 360 ALA
+
+Contact:  1840
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 360 ALA
+
+Contact:  1841
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 360 ALA
+
+Contact:  1842
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 360 ALA
+
+Contact:  1843
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 412 GLY
+
+Contact:  1844
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 404 ASP
+
+Contact:  1845
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 360 ALA
+
+Contact:  1846
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 204 LYS
+
+Contact:  1847
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 172 ILE
+
+Contact:  1848
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 289 PRO
+
+Contact:  1849
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 322 ARG
+
+Contact:  1850
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 296 ASP
+
+Contact:  1851
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 333 LEU
+
+Contact:  1852
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 333 LEU
+
+Contact:  1853
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 333 LEU
+
+Contact:  1854
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 333 LEU
+
+Contact:  1855
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 412 GLY
+
+Contact:  1856
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 333 LEU
+
+Contact:  1857
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 404 ASP
+
+Contact:  1858
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 333 LEU
+
+Contact:  1859
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 333 LEU
+
+Contact:  1860
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 341 ILE
+
+Contact:  1861
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 341 ILE
+
+Contact:  1862
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 341 ILE
+
+Contact:  1863
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 341 ILE
+
+Contact:  1864
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 412 GLY
+
+Contact:  1865
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 341 ILE
+
+Contact:  1866
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 404 ASP
+
+Contact:  1867
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 341 ILE
+
+Contact:  1868
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 341 ILE
+
+Contact:  1869
+at1 <Atom CA> 165 THR
+at2 <Atom CA> 365 GLY
+
+Contact:  1870
+at1 <Atom CA> 204 LYS
+at2 <Atom CA> 365 GLY
+
+Contact:  1871
+at1 <Atom CA> 172 ILE
+at2 <Atom CA> 365 GLY
+
+Contact:  1872
+at1 <Atom CA> 180 GLU
+at2 <Atom CA> 365 GLY
+
+Contact:  1873
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 412 GLY
+
+Contact:  1874
+at1 <Atom CA> 289 PRO
+at2 <Atom CA> 365 GLY
+
+Contact:  1875
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 404 ASP
+
+Contact:  1876
+at1 <Atom CA> 322 ARG
+at2 <Atom CA> 365 GLY
+
+Contact:  1877
+at1 <Atom CA> 296 ASP
+at2 <Atom CA> 365 GLY
+
+Contact:  1878
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 104 THR
+
+Contact:  1879
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 96 ILE
+
+Contact:  1880
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 252 LYS
+
+Contact:  1881
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 261 GLU
+
+Contact:  1882
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 80 LYS
+
+Contact:  1883
+at1 <Atom CA> 2 MET
+at2 <Atom CA> 227 ILE
+
+Contact:  1884
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 104 THR
+
+Contact:  1885
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 96 ILE
+
+Contact:  1886
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 252 LYS
+
+Contact:  1887
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 261 GLU
+
+Contact:  1888
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 80 LYS
+
+Contact:  1889
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 227 ILE
+
+Contact:  1890
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 270 GLY
+
+Contact:  1891
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 274 ILE
+
+Contact:  1892
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 493 LYS
+
+Contact:  1893
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 493 LYS
+
+Contact:  1894
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 493 LYS
+
+Contact:  1895
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 493 LYS
+
+Contact:  1896
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 493 LYS
+
+Contact:  1897
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 135 GLU
+
+Contact:  1898
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 135 GLU
+
+Contact:  1899
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 252 LYS
+
+Contact:  1900
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 261 GLU
+
+Contact:  1901
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 227 ILE
+
+Contact:  1902
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 484 GLN
+
+Contact:  1903
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 484 GLN
+
+Contact:  1904
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 484 GLN
+
+Contact:  1905
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 144 PRO
+
+Contact:  1906
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 144 PRO
+
+Contact:  1907
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 252 LYS
+
+Contact:  1908
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 227 ILE
+
+Contact:  1909
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 151 SER
+
+Contact:  1910
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 151 SER
+
+Contact:  1911
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 252 LYS
+
+Contact:  1912
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 227 ILE
+
+Contact:  1913
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 476 ILE
+
+Contact:  1914
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 476 ILE
+
+Contact:  1915
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 476 ILE
+
+Contact:  1916
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 442 SER
+
+Contact:  1917
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 442 SER
+
+Contact:  1918
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 442 SER
+
+Contact:  1919
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 468 ASN
+
+Contact:  1920
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 468 ASN
+
+Contact:  1921
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 468 ASN
+
+Contact:  1922
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 313 GLN
+
+Contact:  1923
+at1 <Atom CA> 10 GLN
+at2 <Atom CA> 550 VAL
+
+Contact:  1924
+at1 <Atom CA> 135 GLU
+at2 <Atom CA> 313 GLN
+
+Contact:  1925
+at1 <Atom CA> 144 PRO
+at2 <Atom CA> 313 GLN
+
+Contact:  1926
+at1 <Atom CA> 151 SER
+at2 <Atom CA> 313 GLN
+
+Contact:  1927
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 476 ILE
+
+Contact:  1928
+at1 <Atom CA> 476 ILE
+at2 <Atom CA> 550 VAL
+
+Contact:  1929
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 442 SER
+
+Contact:  1930
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 434 LEU
+
+Contact:  1931
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 434 LEU
+
+Contact:  1932
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 434 LEU
+
+Contact:  1933
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 434 LEU
+
+Contact:  1934
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 434 LEU
+
+Contact:  1935
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 434 LEU
+
+Contact:  1936
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 427 THR
+
+Contact:  1937
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 427 THR
+
+Contact:  1938
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 427 THR
+
+Contact:  1939
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 427 THR
+
+Contact:  1940
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 427 THR
+
+Contact:  1941
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 448 ASP
+
+Contact:  1942
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 456 TYR
+
+Contact:  1943
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 456 TYR
+
+Contact:  1944
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 456 TYR
+
+Contact:  1945
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 416 ARG
+
+Contact:  1946
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 416 ARG
+
+Contact:  1947
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 387 LEU
+
+Contact:  1948
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 387 LEU
+
+Contact:  1949
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 387 LEU
+
+Contact:  1950
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 387 LEU
+
+Contact:  1951
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 387 LEU
+
+Contact:  1952
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 387 LEU
+
+Contact:  1953
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 387 LEU
+
+Contact:  1954
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 387 LEU
+
+Contact:  1955
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 395 GLU
+
+Contact:  1956
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 395 GLU
+
+Contact:  1957
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 395 GLU
+
+Contact:  1958
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 395 GLU
+
+Contact:  1959
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 395 GLU
+
+Contact:  1960
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 369 LYS
+
+Contact:  1961
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 369 LYS
+
+Contact:  1962
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 378 GLN
+
+Contact:  1963
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 378 GLN
+
+Contact:  1964
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 378 GLN
+
+Contact:  1965
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 378 GLN
+
+Contact:  1966
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 378 GLN
+
+Contact:  1967
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 378 GLN
+
+Contact:  1968
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 378 GLN
+
+Contact:  1969
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 434 LEU
+
+Contact:  1970
+at1 <Atom CA> 434 LEU
+at2 <Atom CA> 550 VAL
+
+Contact:  1971
+at1 <Atom CA> 434 LEU
+at2 <Atom CA> 557 LEU
+
+Contact:  1972
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 434 LEU
+
+Contact:  1973
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 427 THR
+
+Contact:  1974
+at1 <Atom CA> 427 THR
+at2 <Atom CA> 550 VAL
+
+Contact:  1975
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 427 THR
+
+Contact:  1976
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 448 ASP
+
+Contact:  1977
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 456 TYR
+
+Contact:  1978
+at1 <Atom CA> 456 TYR
+at2 <Atom CA> 550 VAL
+
+Contact:  1979
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 416 ARG
+
+Contact:  1980
+at1 <Atom CA> 416 ARG
+at2 <Atom CA> 550 VAL
+
+Contact:  1981
+at1 <Atom CA> 416 ARG
+at2 <Atom CA> 557 LEU
+
+Contact:  1982
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 416 ARG
+
+Contact:  1983
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 387 LEU
+
+Contact:  1984
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 550 VAL
+
+Contact:  1985
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 557 LEU
+
+Contact:  1986
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 387 LEU
+
+Contact:  1987
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 565 ARG
+
+Contact:  1988
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 576 LEU
+
+Contact:  1989
+at1 <Atom CA> 387 LEU
+at2 <Atom CA> 584 ARG
+
+Contact:  1990
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 395 GLU
+
+Contact:  1991
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 550 VAL
+
+Contact:  1992
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 557 LEU
+
+Contact:  1993
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 395 GLU
+
+Contact:  1994
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 565 ARG
+
+Contact:  1995
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 576 LEU
+
+Contact:  1996
+at1 <Atom CA> 395 GLU
+at2 <Atom CA> 584 ARG
+
+Contact:  1997
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 369 LYS
+
+Contact:  1998
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 550 VAL
+
+Contact:  1999
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 557 LEU
+
+Contact:  2000
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 369 LYS
+
+Contact:  2001
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 565 ARG
+
+Contact:  2002
+at1 <Atom CA> 369 LYS
+at2 <Atom CA> 576 LEU
+
+Contact:  2003
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 378 GLN
+
+Contact:  2004
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 550 VAL
+
+Contact:  2005
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 557 LEU
+
+Contact:  2006
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 378 GLN
+
+Contact:  2007
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 565 ARG
+
+Contact:  2008
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 576 LEU
+
+Contact:  2009
+at1 <Atom CA> 378 GLN
+at2 <Atom CA> 584 ARG
+
+Contact:  2010
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 502 GLU
+
+Contact:  2011
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 502 GLU
+
+Contact:  2012
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 502 GLU
+
+Contact:  2013
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 502 GLU
+
+Contact:  2014
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 502 GLU
+
+Contact:  2015
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 502 GLU
+
+Contact:  2016
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 104 THR
+
+Contact:  2017
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 96 ILE
+
+Contact:  2018
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 252 LYS
+
+Contact:  2019
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 261 GLU
+
+Contact:  2020
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 80 LYS
+
+Contact:  2021
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 227 ILE
+
+Contact:  2022
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 270 GLY
+
+Contact:  2023
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 274 ILE
+
+Contact:  2024
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 69 THR
+
+Contact:  2025
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 282 PRO
+
+Contact:  2026
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 104 THR
+
+Contact:  2027
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 96 ILE
+
+Contact:  2028
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 252 LYS
+
+Contact:  2029
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 261 GLU
+
+Contact:  2030
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 80 LYS
+
+Contact:  2031
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 227 ILE
+
+Contact:  2032
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 270 GLY
+
+Contact:  2033
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 274 ILE
+
+Contact:  2034
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 69 THR
+
+Contact:  2035
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 282 PRO
+
+Contact:  2036
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 511 SER
+
+Contact:  2037
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 511 SER
+
+Contact:  2038
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 511 SER
+
+Contact:  2039
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 511 SER
+
+Contact:  2040
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 511 SER
+
+Contact:  2041
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 511 SER
+
+Contact:  2042
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 511 SER
+
+Contact:  2043
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 104 THR
+
+Contact:  2044
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 96 ILE
+
+Contact:  2045
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 252 LYS
+
+Contact:  2046
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 261 GLU
+
+Contact:  2047
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 89 THR
+
+Contact:  2048
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 227 ILE
+
+Contact:  2049
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 270 GLY
+
+Contact:  2050
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 274 ILE
+
+Contact:  2051
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 89 THR
+
+Contact:  2052
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 282 PRO
+
+Contact:  2053
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 517 THR
+
+Contact:  2054
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 517 THR
+
+Contact:  2055
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 517 THR
+
+Contact:  2056
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 517 THR
+
+Contact:  2057
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 517 THR
+
+Contact:  2058
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 517 THR
+
+Contact:  2059
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 517 THR
+
+Contact:  2060
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 517 THR
+
+Contact:  2061
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 517 THR
+
+Contact:  2062
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 517 THR
+
+Contact:  2063
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 104 THR
+
+Contact:  2064
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 96 ILE
+
+Contact:  2065
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 252 LYS
+
+Contact:  2066
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 261 GLU
+
+Contact:  2067
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 80 LYS
+
+Contact:  2068
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 227 ILE
+
+Contact:  2069
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 270 GLY
+
+Contact:  2070
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 274 ILE
+
+Contact:  2071
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 69 THR
+
+Contact:  2072
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 282 PRO
+
+Contact:  2073
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 104 THR
+
+Contact:  2074
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 96 ILE
+
+Contact:  2075
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 252 LYS
+
+Contact:  2076
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 261 GLU
+
+Contact:  2077
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 80 LYS
+
+Contact:  2078
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 227 ILE
+
+Contact:  2079
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 270 GLY
+
+Contact:  2080
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 274 ILE
+
+Contact:  2081
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 69 THR
+
+Contact:  2082
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 282 PRO
+
+Contact:  2083
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 104 THR
+
+Contact:  2084
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 96 ILE
+
+Contact:  2085
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 252 LYS
+
+Contact:  2086
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 261 GLU
+
+Contact:  2087
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 80 LYS
+
+Contact:  2088
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 227 ILE
+
+Contact:  2089
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 270 GLY
+
+Contact:  2090
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 274 ILE
+
+Contact:  2091
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 76 GLY
+
+Contact:  2092
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 282 PRO
+
+Contact:  2093
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 524 LEU
+
+Contact:  2094
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 524 LEU
+
+Contact:  2095
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 524 LEU
+
+Contact:  2096
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 524 LEU
+
+Contact:  2097
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 524 LEU
+
+Contact:  2098
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 524 LEU
+
+Contact:  2099
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 524 LEU
+
+Contact:  2100
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 524 LEU
+
+Contact:  2101
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 524 LEU
+
+Contact:  2102
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 524 LEU
+
+Contact:  2103
+at1 <Atom CA> 502 GLU
+at2 <Atom CA> 550 VAL
+
+Contact:  2104
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 313 GLN
+
+Contact:  2105
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 550 VAL
+
+Contact:  2106
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 557 LEU
+
+Contact:  2107
+at1 <Atom CA> 19 ILE
+at2 <Atom CA> 304 GLN
+
+Contact:  2108
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 313 GLN
+
+Contact:  2109
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 550 VAL
+
+Contact:  2110
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 557 LEU
+
+Contact:  2111
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 304 GLN
+
+Contact:  2112
+at1 <Atom CA> 27 PHE
+at2 <Atom CA> 565 ARG
+
+Contact:  2113
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 511 SER
+
+Contact:  2114
+at1 <Atom CA> 511 SER
+at2 <Atom CA> 550 VAL
+
+Contact:  2115
+at1 <Atom CA> 511 SER
+at2 <Atom CA> 557 LEU
+
+Contact:  2116
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 313 GLN
+
+Contact:  2117
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 550 VAL
+
+Contact:  2118
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 557 LEU
+
+Contact:  2119
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 304 GLN
+
+Contact:  2120
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 565 ARG
+
+Contact:  2121
+at1 <Atom CA> 89 THR
+at2 <Atom CA> 576 LEU
+
+Contact:  2122
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 517 THR
+
+Contact:  2123
+at1 <Atom CA> 517 THR
+at2 <Atom CA> 550 VAL
+
+Contact:  2124
+at1 <Atom CA> 517 THR
+at2 <Atom CA> 557 LEU
+
+Contact:  2125
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 517 THR
+
+Contact:  2126
+at1 <Atom CA> 517 THR
+at2 <Atom CA> 565 ARG
+
+Contact:  2127
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 313 GLN
+
+Contact:  2128
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 550 VAL
+
+Contact:  2129
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 557 LEU
+
+Contact:  2130
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 304 GLN
+
+Contact:  2131
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 565 ARG
+
+Contact:  2132
+at1 <Atom CA> 38 VAL
+at2 <Atom CA> 576 LEU
+
+Contact:  2133
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 313 GLN
+
+Contact:  2134
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 550 VAL
+
+Contact:  2135
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 557 LEU
+
+Contact:  2136
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 304 GLN
+
+Contact:  2137
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 565 ARG
+
+Contact:  2138
+at1 <Atom CA> 45 LYS
+at2 <Atom CA> 576 LEU
+
+Contact:  2139
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 313 GLN
+
+Contact:  2140
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 550 VAL
+
+Contact:  2141
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 557 LEU
+
+Contact:  2142
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 304 GLN
+
+Contact:  2143
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 565 ARG
+
+Contact:  2144
+at1 <Atom CA> 76 GLY
+at2 <Atom CA> 576 LEU
+
+Contact:  2145
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 524 LEU
+
+Contact:  2146
+at1 <Atom CA> 524 LEU
+at2 <Atom CA> 550 VAL
+
+Contact:  2147
+at1 <Atom CA> 524 LEU
+at2 <Atom CA> 557 LEU
+
+Contact:  2148
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 524 LEU
+
+Contact:  2149
+at1 <Atom CA> 524 LEU
+at2 <Atom CA> 565 ARG
+
+Contact:  2150
+at1 <Atom CA> 524 LEU
+at2 <Atom CA> 576 LEU
+
+Contact:  2151
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 104 THR
+
+Contact:  2152
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 96 ILE
+
+Contact:  2153
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 252 LYS
+
+Contact:  2154
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 261 GLU
+
+Contact:  2155
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 80 LYS
+
+Contact:  2156
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 227 ILE
+
+Contact:  2157
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 270 GLY
+
+Contact:  2158
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 274 ILE
+
+Contact:  2159
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 69 THR
+
+Contact:  2160
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 282 PRO
+
+Contact:  2161
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 532 HIS
+
+Contact:  2162
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 532 HIS
+
+Contact:  2163
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 532 HIS
+
+Contact:  2164
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 532 HIS
+
+Contact:  2165
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 532 HIS
+
+Contact:  2166
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 532 HIS
+
+Contact:  2167
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 532 HIS
+
+Contact:  2168
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 532 HIS
+
+Contact:  2169
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 532 HIS
+
+Contact:  2170
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 532 HIS
+
+Contact:  2171
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 349 PHE
+
+Contact:  2172
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 349 PHE
+
+Contact:  2173
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 349 PHE
+
+Contact:  2174
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 349 PHE
+
+Contact:  2175
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 349 PHE
+
+Contact:  2176
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 349 PHE
+
+Contact:  2177
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 349 PHE
+
+Contact:  2178
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 349 PHE
+
+Contact:  2179
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 542 LEU
+
+Contact:  2180
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 542 LEU
+
+Contact:  2181
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 542 LEU
+
+Contact:  2182
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 542 LEU
+
+Contact:  2183
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 542 LEU
+
+Contact:  2184
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 542 LEU
+
+Contact:  2185
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 542 LEU
+
+Contact:  2186
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 542 LEU
+
+Contact:  2187
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 542 LEU
+
+Contact:  2188
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 542 LEU
+
+Contact:  2189
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 360 ALA
+
+Contact:  2190
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 360 ALA
+
+Contact:  2191
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 360 ALA
+
+Contact:  2192
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 360 ALA
+
+Contact:  2193
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 360 ALA
+
+Contact:  2194
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 104 THR
+
+Contact:  2195
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 96 ILE
+
+Contact:  2196
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 252 LYS
+
+Contact:  2197
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 261 GLU
+
+Contact:  2198
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 80 LYS
+
+Contact:  2199
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 227 ILE
+
+Contact:  2200
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 270 GLY
+
+Contact:  2201
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 274 ILE
+
+Contact:  2202
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 69 THR
+
+Contact:  2203
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 282 PRO
+
+Contact:  2204
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 333 LEU
+
+Contact:  2205
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 333 LEU
+
+Contact:  2206
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 333 LEU
+
+Contact:  2207
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 333 LEU
+
+Contact:  2208
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 333 LEU
+
+Contact:  2209
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 333 LEU
+
+Contact:  2210
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 333 LEU
+
+Contact:  2211
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 333 LEU
+
+Contact:  2212
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 333 LEU
+
+Contact:  2213
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 333 LEU
+
+Contact:  2214
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 341 ILE
+
+Contact:  2215
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 341 ILE
+
+Contact:  2216
+at1 <Atom CA> 252 LYS
+at2 <Atom CA> 341 ILE
+
+Contact:  2217
+at1 <Atom CA> 261 GLU
+at2 <Atom CA> 341 ILE
+
+Contact:  2218
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 341 ILE
+
+Contact:  2219
+at1 <Atom CA> 227 ILE
+at2 <Atom CA> 341 ILE
+
+Contact:  2220
+at1 <Atom CA> 270 GLY
+at2 <Atom CA> 341 ILE
+
+Contact:  2221
+at1 <Atom CA> 274 ILE
+at2 <Atom CA> 341 ILE
+
+Contact:  2222
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 341 ILE
+
+Contact:  2223
+at1 <Atom CA> 282 PRO
+at2 <Atom CA> 341 ILE
+
+Contact:  2224
+at1 <Atom CA> 104 THR
+at2 <Atom CA> 365 GLY
+
+Contact:  2225
+at1 <Atom CA> 96 ILE
+at2 <Atom CA> 365 GLY
+
+Contact:  2226
+at1 <Atom CA> 80 LYS
+at2 <Atom CA> 365 GLY
+
+Contact:  2227
+at1 <Atom CA> 69 THR
+at2 <Atom CA> 365 GLY
+
+Contact:  2228
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 313 GLN
+
+Contact:  2229
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 550 VAL
+
+Contact:  2230
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 557 LEU
+
+Contact:  2231
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 304 GLN
+
+Contact:  2232
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 565 ARG
+
+Contact:  2233
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 576 LEU
+
+Contact:  2234
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 584 ARG
+
+Contact:  2235
+at1 <Atom CA> 54 THR
+at2 <Atom CA> 595 GLY
+
+Contact:  2236
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 532 HIS
+
+Contact:  2237
+at1 <Atom CA> 532 HIS
+at2 <Atom CA> 550 VAL
+
+Contact:  2238
+at1 <Atom CA> 532 HIS
+at2 <Atom CA> 557 LEU
+
+Contact:  2239
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 532 HIS
+
+Contact:  2240
+at1 <Atom CA> 532 HIS
+at2 <Atom CA> 565 ARG
+
+Contact:  2241
+at1 <Atom CA> 532 HIS
+at2 <Atom CA> 576 LEU
+
+Contact:  2242
+at1 <Atom CA> 532 HIS
+at2 <Atom CA> 584 ARG
+
+Contact:  2243
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 349 PHE
+
+Contact:  2244
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 550 VAL
+
+Contact:  2245
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 557 LEU
+
+Contact:  2246
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 349 PHE
+
+Contact:  2247
+at1 <Atom CA> 349 PHE
+at2 <Atom CA> 565 ARG
+
+Contact:  2248
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 542 LEU
+
+Contact:  2249
+at1 <Atom CA> 542 LEU
+at2 <Atom CA> 550 VAL
+
+Contact:  2250
+at1 <Atom CA> 542 LEU
+at2 <Atom CA> 557 LEU
+
+Contact:  2251
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 542 LEU
+
+Contact:  2252
+at1 <Atom CA> 542 LEU
+at2 <Atom CA> 565 ARG
+
+Contact:  2253
+at1 <Atom CA> 542 LEU
+at2 <Atom CA> 576 LEU
+
+Contact:  2254
+at1 <Atom CA> 542 LEU
+at2 <Atom CA> 584 ARG
+
+Contact:  2255
+at1 <Atom CA> 542 LEU
+at2 <Atom CA> 595 GLY
+
+Contact:  2256
+at1 <Atom CA> 542 LEU
+at2 <Atom CA> 599 GLY
+
+Contact:  2257
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 360 ALA
+
+Contact:  2258
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 550 VAL
+
+Contact:  2259
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 557 LEU
+
+Contact:  2260
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 360 ALA
+
+Contact:  2261
+at1 <Atom CA> 360 ALA
+at2 <Atom CA> 565 ARG
+
+Contact:  2262
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 313 GLN
+
+Contact:  2263
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 550 VAL
+
+Contact:  2264
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 557 LEU
+
+Contact:  2265
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 304 GLN
+
+Contact:  2266
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 565 ARG
+
+Contact:  2267
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 576 LEU
+
+Contact:  2268
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 584 ARG
+
+Contact:  2269
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 595 GLY
+
+Contact:  2270
+at1 <Atom CA> 61 LEU
+at2 <Atom CA> 599 GLY
+
+Contact:  2271
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 333 LEU
+
+Contact:  2272
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 550 VAL
+
+Contact:  2273
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 557 LEU
+
+Contact:  2274
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 333 LEU
+
+Contact:  2275
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 565 ARG
+
+Contact:  2276
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 576 LEU
+
+Contact:  2277
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 584 ARG
+
+Contact:  2278
+at1 <Atom CA> 333 LEU
+at2 <Atom CA> 595 GLY
+
+Contact:  2279
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 341 ILE
+
+Contact:  2280
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 550 VAL
+
+Contact:  2281
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 557 LEU
+
+Contact:  2282
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 341 ILE
+
+Contact:  2283
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 565 ARG
+
+Contact:  2284
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 576 LEU
+
+Contact:  2285
+at1 <Atom CA> 341 ILE
+at2 <Atom CA> 584 ARG
+
+Contact:  2286
+at1 <Atom CA> 313 GLN
+at2 <Atom CA> 365 GLY
+
+Contact:  2287
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 550 VAL
+
+Contact:  2288
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 557 LEU
+
+Contact:  2289
+at1 <Atom CA> 304 GLN
+at2 <Atom CA> 365 GLY
+
+Contact:  2290
+at1 <Atom CA> 365 GLY
+at2 <Atom CA> 565 ARG
+
